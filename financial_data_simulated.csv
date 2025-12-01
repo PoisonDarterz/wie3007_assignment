@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,Persona,Job,Annual_Income,Credit_Score,Account_Balance,Spending_Score,Loan_Amount,Loan_Term_Months,Loan_Default,Customer_Feedback
+CUST-279451,43,F,professional,Clinical research associate,119316.26,820,31514.82,64.18,8965.07,36,0,I commend the bank's commitment to providing excellent customer service.
+CUST-160738,32,M,professional,"Social research officer, government",86244.23,693,23638.0,53.99,18447.09,24,1,The exorbitant fees associated with my commercial loan are unacceptable and require immediate review.
+CUST-292401,20,F,young_adult,None,17903.26,650,104.06,67.95,3681.92,24,0,Appreciate the mobile check deposit. So convenient!
+CUST-681542,51,M,professional,Health promotion specialist,67501.25,735,11488.98,43.02,35908.24,24,0,The security measures in place provide peace of mind during transactions.
+CUST-266931,55,F,professional,Hydrographic surveyor,117625.97,694,35947.21,54.91,31072.81,36,0,Notifications regarding my bank account are helpful and not intrusive.
+CUST-587575,21,M,young_adult,Student,14529.95,607,210.75,53.53,4039.58,12,0,This bank’s mobile app makes loans simple!
+CUST-535970,38,M,professional,Private music teacher,92387.09,668,4615.59,66.9,51181.33,12,1,I experienced unexpected delays in the approval process for a small business loan.
+CUST-735324,39,M,professional,Biomedical engineer,109733.67,674,16962.24,70.61,53637.77,12,0,I am happy to choose this bank to do my banking.
+CUST-641722,59,M,professional,Training and development officer,87875.51,741,24605.22,60.38,51136.83,36,0,The bank's website provides inadequate information about its business banking products.
+CUST-360247,24,M,young_adult,Part-time Server,19863.69,746,122.37,73.15,4588.55,36,0,"The fast cash option helped me cover an emergency expense, huge relief!"
+CUST-592841,51,M,professional,Commissioning editor,141082.1,680,46135.64,55.52,19759.64,24,0,Seamless mobile banking integration is a major convenience.
+CUST-389666,79,F,retiree,retired,40973.9,639,3346.43,26.98,22638.08,12,0,"The staff are always polite and attentive; it’s comforting, really."
+CUST-205389,40,F,professional,Patent examiner,112541.24,686,31786.85,51.39,15633.19,60,1,I find the account management system to be overly complex and difficult to navigate effectively.
+CUST-310548,64,M,retiree,retired,61889.0,690,18044.44,32.42,33155.03,60,1,"The bank's policies seem designed to benefit them, not their customers."
+CUST-780776,72,M,retiree,retired,43883.89,703,12866.13,53.05,22611.64,36,0,I am really happy with the personal attention I receive from my bank.
+CUST-541409,75,F,retiree,retired,28615.15,686,3104.54,24.26,13129.97,60,0,"The new password requirements keep my finances safe and secure, right?"
+CUST-201255,31,M,professional,Secondary school teacher,77843.16,679,31279.62,19.36,26140.17,60,0,The online platform's efficiency has greatly streamlined our business transactions.
+CUST-185544,18,M,young_adult,Intern,10111.88,523,86.64,56.18,4453.26,36,1,Why are the fees for crypto transactions so high? I'm losing money!
+CUST-303322,73,M,retiree,retired,48859.68,808,3766.97,44.01,11448.04,24,0,Your team's attention to safeguarding my funds gives me assurance.
+CUST-572407,58,M,professional,Magazine journalist,96040.11,711,19813.81,51.87,38288.65,24,1,My request for a higher line of credit was denied despite my excellent credit history.
+CUST-665990,62,F,retiree,retired,50841.9,756,14784.37,21.92,15285.98,60,0,The online process was easy to navigate and manage.
+CUST-434165,52,F,professional,Secretary/administrator,76584.1,693,46109.11,52.61,39600.98,24,1,I am satisfied with the personalized financial advice I received from my account manager.
+CUST-474440,66,F,retiree,retired,25800.26,594,3305.46,15.27,12974.97,36,1,I'm worried that the bank is losing its values; it's not the same company it used to be.
+CUST-776502,20,M,young_adult,None,15002.94,467,70.84,41.0,2846.78,12,0,Their quick response and resolution of app issues are impressive!
+CUST-601916,29,F,professional,Medical technical officer,50365.64,780,10533.72,44.2,2454.55,36,0,The efficiency of the online application process for loans was impressive.
+CUST-672079,46,F,professional,Secondary school teacher,84847.69,631,44509.61,73.06,35631.79,24,1,I am concerned about the bank's adherence to ethical and responsible business practices.
+CUST-900961,41,F,professional,Horticultural consultant,129006.84,777,27188.26,32.12,55307.7,12,0,The online platform's efficiency has greatly streamlined our business transactions.
+CUST-749840,33,M,professional,Operational researcher,108871.26,659,41221.1,41.6,53368.99,12,1,"Customer service is unresponsive, making it difficult to resolve pressing business account issues quickly."
+CUST-384815,79,M,retiree,retired,49483.73,760,52631.69,32.37,15940.93,24,0,The team went above and beyond to answer my questions regarding my account.
+CUST-107161,74,M,retiree,retired,36177.76,677,5635.5,18.68,12192.19,12,0,I was helped out a lot by the lovely staff at the bank.
+CUST-133276,79,M,retiree,retired,36026.59,650,4781.75,28.19,13123.73,60,0,Thank you for going the extra mile when helping me with my issues.
+CUST-803953,80,F,retiree,retired,34127.81,646,1328.96,20.54,9711.25,24,0,The quick response time to my password issues was a huge help.
+CUST-980521,33,F,professional,Museum/gallery curator,91525.62,629,23767.58,40.38,47001.01,24,0,"The international wire transfer fees are exorbitant, making it expensive to conduct global business."
+CUST-749887,62,F,retiree,retired,45041.27,617,10933.68,36.69,14025.11,12,1,I feel unsafe and this bank doesn't care! I've been here for so long and nothing.
+CUST-715551,44,F,professional,Secretary/administrator,121680.94,774,47040.99,48.38,27203.21,24,0,I experienced significant delays in receiving a refund for an erroneous charge.
+CUST-686716,40,M,professional,Cytogeneticist,82671.24,823,16128.33,46.0,37585.85,36,1,The bank's fee structure for business checking accounts is complicated and confusing.
+CUST-245939,35,F,professional,Financial manager,131321.26,803,33142.44,47.79,66880.26,24,0,The responsiveness of the customer support team is truly commendable.
+CUST-293411,74,F,retiree,retired,44552.29,702,13189.69,40.09,3848.71,36,1,The support agent on the phone cut the line to avoid dealing with me!
+CUST-980690,77,F,retiree,retired,45792.88,641,25666.93,50.32,12345.01,36,0,The helpful assistance I got with my questions was excellent.
+CUST-763121,39,M,professional,"Producer, radio",79890.57,760,23869.98,52.65,6359.33,36,0,High interest rates and benefits are a huge reason to be with the bank.
+CUST-827744,41,F,professional,Geophysical data processor,136053.86,777,29080.27,28.16,11093.72,60,1,The bank's mobile deposit feature is frequently unavailable due to technical issues.
+CUST-979727,48,F,professional,Consulting civil engineer,83768.31,809,41269.25,59.44,20736.26,24,0,The expertise of the banking staff was invaluable in securing my business loan.
+CUST-846925,59,F,professional,"Teacher, adult education",98800.02,727,22283.36,58.09,2996.39,60,0,I am happy to choose this bank to do my banking.
+CUST-789233,43,F,professional,Technical author,66787.3,632,24825.55,71.49,21696.91,24,1,I encountered numerous errors while attempting to deposit a check using the mobile deposit feature.
+CUST-524035,39,F,professional,Mudlogger,55319.37,687,2370.03,44.18,16219.1,60,1,The bank's failure to protect my account from unauthorized access has resulted in significant financial losses.
+CUST-761393,50,M,professional,Production manager,39366.62,657,12371.25,69.03,16986.46,36,1,My attempts to resolve a billing error have been unsuccessful despite multiple calls.
+CUST-243079,46,M,professional,Speech and language therapist,28645.27,716,3800.1,59.12,6113.79,36,0,I am dissatisfied with the limited accessibility of branches and ATMs in my area.
+CUST-673619,75,M,retiree,retired,41970.3,716,1646.97,33.89,4929.93,36,0,The branch staff were so understanding of my difficulty with the app.
+CUST-381607,71,M,retiree,retired,33232.41,584,5504.71,25.01,8246.68,24,0,The bank staff were great at helping me reset my login credentials.
+CUST-539976,18,F,young_adult,Student,9995.31,546,244.51,67.19,2816.02,24,1,"The app keeps glitching, making it impossible to manage my account."
+CUST-537017,57,F,professional,"Clinical scientist, histocompatibility and immunogenetics",65764.81,731,37504.84,49.59,22117.81,24,0,"The wire transfer service experienced delays, impacting my business operations."
+CUST-645928,67,M,retiree,retired,55036.0,692,13371.29,42.08,4852.43,24,1,They closed my local bank and now I have to use a machine to deposit a check! Ridiculous.
+CUST-156284,38,M,professional,Youth worker,60427.83,749,7628.98,21.36,12953.03,12,0,I value the personalized financial advice I received from the bank's advisors.
+CUST-554730,76,M,retiree,retired,37787.81,616,16150.03,56.75,4563.53,36,0,I'm grateful for the courteous and professional approach of your staff.
+CUST-674765,45,M,professional,Contractor,117671.63,797,2444.98,48.11,54270.97,60,1,The bank's policies regarding foreclosure are harsh and unforgiving.
+CUST-979269,38,M,professional,Research scientist (maths),113218.57,720,23714.04,50.25,60274.33,24,1,"My business account was frozen without proper notification, causing significant operational disruptions."
+CUST-102303,20,F,young_adult,None,19657.37,577,97.81,69.18,9483.02,12,1,Splitting bills with my partner is a constant battle due to the app.
+CUST-360297,61,M,retiree,retired,48921.01,686,21010.48,20.52,9642.72,24,0,The branch staff were incredibly patient explaining the new website to me.
+CUST-860127,79,M,retiree,retired,50243.01,612,5891.7,20.85,13286.76,24,0,I am very satisfied with the friendly and efficient service I receive.
+CUST-934883,21,F,young_adult,None,20215.92,609,152.1,87.67,10928.73,36,1,I've lost money due to the bank's unreliable crypto trading platform.
+CUST-263917,75,M,retiree,retired,49657.46,703,1659.71,30.14,4466.35,24,0,I appreciate the friendly and helpful service I always receive at the branch.
+CUST-446922,27,F,professional,"Social research officer, government",68908.08,850,14196.39,54.85,20245.02,12,0,Seamless mobile banking integration is a major convenience.
+CUST-595036,57,M,professional,Marketing executive,107015.87,749,28477.96,55.37,2909.92,36,0,Seamless mobile banking integration is a major convenience.
+CUST-525556,29,F,professional,Database administrator,64367.55,657,24870.65,34.83,4062.1,60,0,The international wire transfer service is reliable for my business transactions.
+CUST-904771,47,F,professional,Manufacturing engineer,44606.25,780,20377.18,40.54,24950.89,60,0,The security measures implemented for online transactions provide peace of mind.
+CUST-786341,60,M,retiree,retired,39420.95,683,1547.03,27.34,16395.63,36,0,The branch staff were so understanding of my difficulty with the app.
+CUST-342924,29,F,professional,"Engineer, land",80313.47,599,36415.58,23.35,45953.69,60,0,Mortgage options were tailored to my specific financial circumstances.
+CUST-458605,53,M,professional,Volunteer coordinator,81752.16,690,24700.83,36.37,40503.64,24,0,The bank's commitment to innovation is evident in its advanced technological offerings.
+CUST-320989,53,M,professional,Call centre manager,53919.67,682,1127.15,49.22,29505.43,24,0,The efficiency of the online application process for loans was impressive.
+CUST-635239,72,M,retiree,retired,37971.93,645,5459.03,30.76,14656.43,24,0,The helpful staff at the branch were very accommodating and patient.
+CUST-422823,52,F,professional,Ranger/warden,112213.31,755,22223.56,39.11,65613.01,36,1,"The bank's fee structure for business accounts is unclear and lacks transparency, causing unexpected charges."
+CUST-982417,61,F,retiree,retired,45830.39,591,2622.55,24.95,20246.8,36,1,"My local branch closed, and the next one is too far away; I can't get there easily."
+CUST-464189,48,F,professional,Fitness centre manager,47232.89,702,5170.14,46.85,16085.74,36,0,The communication regarding account updates is clear and concise.
+CUST-644719,31,F,professional,Print production planner,75426.16,664,18873.38,69.72,31616.68,24,1,The bank's investment advice has consistently underperformed my expectations.
+CUST-180951,77,M,retiree,retired,48936.82,548,22793.82,13.02,7635.56,24,0,The staff in the branch were very helpful answering my pension questions.
+CUST-746154,42,M,professional,"Journalist, broadcasting",96715.52,803,11209.12,59.46,54526.3,60,1,"The bank's system frequently experiences downtime, disrupting my ability to access essential financial services."
+CUST-817552,44,M,professional,Private music teacher,95359.12,747,19290.99,57.92,48938.59,12,1,The bank's mobile banking app is clunky and lacks essential functionality for businesses.
+CUST-599753,55,M,professional,Management consultant,70079.7,699,12920.73,32.14,16444.04,24,0,The mortgage options were tailored to my individual financial needs.
+CUST-718990,63,M,retiree,retired,38533.05,716,11452.48,40.73,18852.52,36,1,This bank's website is too advanced. Is there a simpler version available?
+CUST-191962,55,M,professional,"Engineer, drilling",109756.34,696,18236.61,77.18,47665.91,60,0,The security measures in place provide peace of mind during transactions.
+CUST-823535,38,F,professional,Artist,73311.95,695,42985.49,69.16,6788.08,36,0,Competitive savings account interest rates make my business so simple.
+CUST-239164,38,F,professional,Herbalist,74237.17,656,8291.54,54.44,23143.76,12,1,I am concerned about the ethical implications of the bank's investment practices.
+CUST-808308,30,M,professional,"Engineer, land",89069.8,732,8447.63,60.73,16521.88,12,1,The bank's online platform is outdated and difficult to use for complex transactions.
+CUST-702080,30,F,professional,Arts administrator,126454.37,693,21396.84,60.04,37427.72,12,0,Setting up and managing business accounts is very convenient.
+CUST-500099,59,M,professional,"Radiographer, therapeutic",73844.39,743,16711.17,57.11,27287.38,36,0,Timely notifications made me feel like my accounts were safe.
+CUST-828813,62,M,retiree,retired,47814.28,627,1533.97,27.58,25046.24,24,0,The branch on Main Street is always clean and the staff is friendly.
+CUST-882395,61,M,retiree,retired,47883.21,635,1730.61,36.67,4354.0,60,0,"It's great to know that you have my finances under control, thank you."
+CUST-389809,49,M,professional,Site engineer,29418.77,702,18742.24,44.99,12898.43,36,0,The dedication to social responsibility is very admirable.
+CUST-660596,58,F,professional,Physiotherapist,41487.55,610,10944.3,32.38,23642.39,36,0,The available online resources are comprehensive and informative.
+CUST-740916,59,F,professional,"Librarian, public",93251.1,749,48096.69,46.17,27976.2,60,0,The great advice from the financial staff made me want to stay.
+CUST-223215,52,M,professional,"Doctor, hospital",85051.42,733,9090.92,61.35,37429.22,12,1,The bank's policies regarding currency exchange rates are unfavorable and disadvantageous.
+CUST-312033,49,F,professional,Senior tax professional/tax inspector,81586.35,638,56231.38,35.03,16018.12,24,0,The reliable international funds help me focus on business.
+CUST-838094,23,M,young_adult,Intern,10826.0,688,1057.15,78.67,4939.99,60,0,I am happy to have found an app with an excellent user interface!
+CUST-407410,67,M,retiree,retired,47667.93,657,8345.47,35.22,10498.72,12,0,The phone support was patient while explaining the account changes.
+CUST-270495,54,F,professional,Pension scheme manager,92444.87,667,21176.39,51.1,55436.05,60,0,Your mortgage options provided me with the flexibility I needed for my new home purchase.
+CUST-417960,18,F,young_adult,Barista,14348.49,709,293.91,87.75,7479.96,36,0,"The instant cash advances have saved me more than once, seriously life-saving."
+CUST-709908,64,F,retiree,retired,44560.41,708,13879.39,26.79,14687.46,36,0,I am very satisfied with the friendly and efficient service I receive.
+CUST-119719,64,F,retiree,retired,52874.25,701,16531.42,29.08,8486.73,24,0,I appreciate the extra precautions taken to ensure my account's security.
+CUST-871934,64,M,retiree,retired,56959.28,749,10258.51,23.44,31494.18,60,1,This bank is never consistent. What a letdown.
+CUST-180234,32,M,professional,Insurance underwriter,104796.25,720,11868.12,49.28,41726.59,12,0,I am questioning the bank's commitment to providing excellent service to its business customers.
+CUST-664570,78,M,retiree,retired,49340.23,629,6839.83,34.04,22680.14,36,1,I needed the money but it was locked in an account that I cannot access
+CUST-768914,35,M,professional,"Journalist, magazine",66847.01,778,41935.87,40.33,13062.4,12,0,The online platform is user-friendly and simplifies account management.
+CUST-647312,70,M,retiree,retired,55090.91,815,6842.03,28.38,2804.69,60,0,I loathe this bank. I'm closing my account.
+CUST-468948,22,F,young_adult,None,13062.88,634,514.3,68.76,5190.53,12,1,I'm being charged hidden fees that I wasn't informed about.
+CUST-729232,64,F,retiree,retired,50967.35,592,3756.62,25.08,12753.48,60,0,I appreciate the security measures in place to protect my account.
+CUST-767578,55,M,professional,"Engineer, structural",95041.88,772,47835.35,55.04,28224.11,60,1,"My business account was frozen without proper notification, causing significant operational disruptions."
+CUST-106087,57,M,professional,Printmaker,92818.13,692,2817.26,59.36,51799.95,12,0,The diverse range of financial products offered meets my investment needs.
+CUST-255825,30,F,professional,Landscape architect,126587.99,709,82867.29,55.32,65540.32,24,0,I appreciate the competitive interest rates on business savings accounts.
+CUST-116656,24,F,young_adult,Part-time Server,8149.85,563,53.3,74.68,4379.53,60,1,Splitting bills with my friends is such a hassle using this app.
+CUST-849940,44,F,professional,Emergency planning/management officer,34466.78,729,14867.91,46.06,14970.99,24,0,Competitive interest rates on savings accounts are a major benefit.
+CUST-406313,80,F,retiree,retired,37796.58,612,2843.68,38.51,18178.96,36,0,I appreciate your care and attention in managing my finances.
+CUST-853800,61,F,retiree,retired,55749.09,672,58055.95,14.11,14603.96,12,0,I am happy with the peace of mind knowing my savings are well protected.
+CUST-165214,57,F,professional,Computer games developer,94825.94,756,84642.14,23.7,34381.89,12,0,The range of financial products is exactly what I need for investing.
+CUST-938663,43,F,professional,"Physicist, medical",70456.93,652,20106.57,30.25,39573.09,36,1,I was subjected to discriminatory treatment based on my race and ethnicity.
+CUST-291542,80,F,retiree,retired,46050.8,718,19508.59,50.21,13478.77,24,0,I really appreciate the time spent to explain my account details.
+CUST-101049,78,F,retiree,retired,54256.88,643,2314.75,36.16,26584.28,36,0,The branch representatives have been genuinely helpful with my account.
+CUST-743241,66,M,retiree,retired,59240.15,645,20225.58,11.63,20042.06,36,1,Thank you for your helpful approach when I had to reset my password.
+CUST-336588,50,M,professional,Immunologist,113398.82,661,27518.87,34.19,19395.82,60,0,I commend the bank's commitment to providing excellent customer support.
+CUST-859822,72,F,retiree,retired,40565.01,713,1083.8,30.57,13798.93,60,0,The support staff have been extremely patient during the entire process.
+CUST-404691,76,F,retiree,retired,58923.56,742,12641.06,20.12,33058.18,36,0,I feel very secure knowing you're managing my money.
+CUST-709418,25,F,professional,Printmaker,45234.99,663,3301.17,41.85,19229.94,36,0,The customer service representatives were unhelpful and lacked the necessary expertise.
+CUST-338633,39,F,professional,Oncologist,88836.59,726,61530.61,40.8,11769.88,60,0,The many investment options made it easy to manage my money.
+CUST-295760,79,M,retiree,retired,29654.38,645,1563.75,51.05,11488.65,12,0,The staff in the branch were very helpful answering my pension questions.
+CUST-486643,57,M,professional,"Engineer, civil (contracting)",82482.64,750,15507.88,42.8,47283.67,60,0,Notifications regarding my bank account are helpful and not intrusive.
+CUST-859181,73,F,retiree,retired,50807.57,622,7227.66,45.53,18781.65,36,0,"I'm always satisfied with the service, very trustworthy."
+CUST-347879,37,M,professional,Diplomatic Services operational officer,119356.71,777,33389.07,40.77,10685.8,12,0,Managing my finances online has saved me significant time and effort.
+CUST-544613,40,F,professional,Phytotherapist,85313.21,701,4255.12,49.96,23896.32,36,1,The bank's policies regarding foreclosure are harsh and unforgiving.
+CUST-888086,61,F,retiree,retired,50677.11,640,9885.52,31.19,4355.28,60,0,"The call queues are very long, and when I get through, they can't fix my problem."
+CUST-838246,45,M,professional,Magazine features editor,89757.98,650,24726.62,32.49,28714.0,60,0,My request for a credit line increase was rejected despite my strong credit history and financial stability.
+CUST-976002,24,F,young_adult,Part-time Server,17619.83,755,335.22,70.67,6070.97,24,0,I'm impressed with how they help younger demographics!
+CUST-405110,28,F,professional,Corporate treasurer,56758.7,711,2191.36,48.12,13967.93,36,0,The ease of setting up and managing business accounts has been a significant benefit.
+CUST-968100,68,F,retiree,retired,45290.34,726,7006.18,29.19,11901.62,12,0,Thank you for taking the time to help me through the login process.
+CUST-612361,33,F,professional,"Engineer, materials",65626.37,658,21291.21,30.82,26145.4,24,0,Applying online for a loan saves a lot of time for a busy customer.
+CUST-664353,36,F,professional,Immigration officer,108725.61,743,14058.28,24.54,8557.63,12,0,I am frustrated with the bank's rigid policies and lack of flexibility.
+CUST-449718,48,M,professional,"Sales professional, IT",108269.83,705,45333.39,65.66,28568.45,24,0,The bank is not unethical and cares about its customers.
+CUST-194519,65,M,retiree,retired,36814.36,647,7130.07,26.42,16027.2,12,0,"The branch is a really friendly place, it's nice to be there."
+CUST-965837,58,F,professional,Cartographer,92043.49,731,12631.15,34.73,50610.25,24,0,I appreciate the competitive interest rates on business savings accounts.
+CUST-887574,39,F,professional,Animal technologist,85470.76,728,21527.53,39.13,3324.83,36,0,I am grateful for the personalized attention I received during my home loan application.
+CUST-154164,64,F,retiree,retired,32457.89,598,7584.55,19.16,14902.64,60,0,"Your branch staff are always so helpful, it is appreciated."
+CUST-364792,60,M,retiree,retired,28412.16,653,2039.62,34.68,9540.22,60,0,"The branch is a really friendly place, it's nice to be there."
+CUST-187289,63,M,retiree,retired,51327.65,700,6138.7,22.8,29394.39,36,0,The staff at my local branch always greet me with a smile; it's very nice.
+CUST-205102,26,F,professional,Stage manager,47821.27,695,10166.59,43.64,24872.09,24,0,Proactive approach to fraud prevention makes me feel safe and secure.
+CUST-733870,33,F,professional,Secretary/administrator,86586.64,751,57505.14,73.44,42816.63,60,0,Professional staff members made me feel comfortable.
+CUST-991913,50,M,professional,Dentist,44660.98,715,10508.33,76.26,19880.72,24,0,Professional staff is very beneficial in the bank.
+CUST-515645,72,F,retiree,retired,44074.71,709,7760.25,38.99,7680.48,12,0,The security protocols give me a sense of trust in the bank's services.
+CUST-993415,25,F,professional,Pharmacologist,108597.42,736,18157.1,43.18,63244.54,24,0,The bank is not unethical and cares about its customers.
+CUST-815711,65,F,retiree,retired,39453.23,767,12574.6,42.41,18275.41,12,0,I’m so thankful for the help with accessing my online pension statement.
+CUST-382956,56,F,professional,Archivist,57530.54,754,20956.31,42.05,6588.74,60,0,Personalized financial advice has been invaluable to my investment strategy.
+CUST-530321,58,F,professional,Forensic psychologist,40971.12,654,6905.58,29.72,3411.58,60,0,I experienced difficulty accessing my account online due to technical issues.
+CUST-510373,55,F,professional,Management consultant,51100.03,669,8129.7,44.09,16332.62,24,0,I save time with a reliable and trustworthy service.
+CUST-205561,25,F,professional,"Engineer, automotive",123024.52,676,59399.2,79.17,65799.02,36,0,I am grateful for the personalized attention I received during my home loan application.
+CUST-550167,39,M,professional,Recycling officer,129959.22,785,39147.99,78.43,31367.74,24,0,I'm impressed with the competitive interest rates offered on your premium accounts.
+CUST-152072,28,F,professional,"Engineer, communications",159379.07,757,5800.9,52.23,78155.21,36,0,The bank's commitment to innovation is evident in its advanced technological offerings.
+CUST-663670,79,M,retiree,retired,44020.57,778,1588.68,23.93,17657.26,60,0,"I feel my money is safe with you, and that gives me great peace of mind."
+CUST-638406,73,F,retiree,retired,60725.42,736,13046.62,38.71,9531.27,24,0,Your phone service is impeccable; problems get solved so quickly.
+CUST-511970,66,M,retiree,retired,55071.71,632,6224.69,17.86,16087.68,24,0,I am always happy with the professional care I receive.
+CUST-248513,18,F,young_adult,Student,18583.83,549,440.41,75.28,6530.36,60,1,"I wanted fast cash for an emergency, and the bank denied my request."
+CUST-612089,42,M,professional,Marketing executive,101913.21,767,11621.21,56.03,42729.69,12,0,The international wire transfer service is efficient and reliable for my business needs.
+CUST-970207,35,M,professional,Information officer,61557.34,680,19029.26,31.61,31372.01,24,0,Competitive interest rates on savings accounts are a major benefit.
+CUST-510191,29,M,professional,Clinical biochemist,118124.43,737,34689.52,47.3,51943.36,12,1,"The bank's website is difficult to navigate, making it hard to find relevant information quickly."
+CUST-797576,21,M,young_adult,Barista,22732.14,644,117.51,65.49,12063.47,60,1,Splitting bills is a source of stress every month because of this app.
+CUST-294305,55,F,professional,Claims inspector/assessor,94539.78,773,10735.95,51.0,19604.09,24,1,I am dissatisfied with the lack of personalized financial advice and support for my business needs.
+CUST-347062,71,M,retiree,retired,44479.63,702,31324.82,33.53,16682.92,12,0,I appreciate the service I get whenever I visit the branch.
+CUST-180088,47,M,professional,"Research officer, political party",33760.42,763,17939.58,72.1,11861.14,12,0,Prompt customer support is beneficial to everyone in the bank.
+CUST-548317,78,M,retiree,retired,52328.22,555,815.21,31.52,16012.8,36,1,The bank should have better accessibility options for those hard of seeing.
+CUST-220005,21,M,young_adult,Barista,19204.0,592,245.51,83.48,3588.59,12,0,"The instant cash advances are life saving, thank you!"
+CUST-354880,80,F,retiree,retired,42333.26,520,4544.21,35.91,7339.95,60,0,"The branch is always a welcome, and calming, place to visit."
+CUST-600281,45,F,professional,Medical illustrator,149696.44,636,24363.06,62.44,18799.13,36,0,The app made it easy to see my profits and losses.
+CUST-937803,43,F,professional,Contractor,98814.32,741,17137.02,49.68,54249.92,24,1,My request for a credit line increase was rejected despite my strong credit history and financial stability.
+CUST-714825,42,F,professional,"Engineer, broadcasting (operations)",102300.08,774,49404.34,72.33,4557.14,24,0,Competitive interest rates on business savings are a great benefit.
+CUST-863559,52,F,professional,Mudlogger,98494.99,641,41605.29,38.08,41557.89,60,1,Customer service representatives are not knowledgeable about business banking services.
+CUST-958045,62,M,retiree,retired,39584.95,588,12227.23,22.52,13858.09,24,0,The phone support agent was incredibly patient with me and my queries.
+CUST-692772,41,F,professional,Geophysicist/field seismologist,122508.11,722,46921.87,31.05,33338.35,12,1,My application for a small business loan was denied with no clear explanation.
+CUST-397992,76,F,retiree,retired,57008.74,706,10181.75,33.85,4608.74,24,0,The staff at my local branch are friendly and always ready to help.
+CUST-686986,61,M,retiree,retired,62435.02,641,29016.97,49.98,31867.29,12,0,I’m impressed by the level of security and personal service.
+CUST-864366,34,F,professional,"Engineer, aeronautical",86234.24,760,39102.11,48.9,20436.72,12,0,Helpful bank staff is one of the pros of this bank.
+CUST-975271,40,F,professional,"Geologist, engineering",106209.77,728,19781.53,59.35,21802.05,60,0,The online banking interface is user-friendly and allows for effortless financial management.
+CUST-900244,23,M,young_adult,Barista,16163.58,675,539.8,84.62,4974.57,12,0,I can't believe they charge a fee for transferring money to another bank!
+CUST-612029,60,M,retiree,retired,52225.75,681,11298.28,36.1,24307.01,24,1,I'm worried about the changes to my pension payments; can you verify the reason?
+CUST-490935,68,M,retiree,retired,23854.88,697,2129.9,28.17,9682.8,36,1,I feel like the bank is ignoring its older customers; the focus is all on online services.
+CUST-856646,60,F,retiree,retired,37481.13,651,8178.24,20.89,17718.76,24,0,I like visiting the branch because the staff are so attentive.
+CUST-509008,74,F,retiree,retired,41963.22,680,3802.16,38.8,15521.6,12,0,It's nice to know my pension fund is safe and secure.
+CUST-519487,41,F,professional,Freight forwarder,131646.89,634,54418.25,47.62,69632.42,24,1,"My business account was mistakenly flagged for fraudulent activity, causing significant inconvenience."
+CUST-624513,54,M,professional,Homeopath,89927.12,701,5423.76,60.45,18931.97,36,0,The range of investment options is well-suited to my financial objectives.
+CUST-598372,48,M,professional,Clinical psychologist,84592.54,831,28445.42,52.59,24001.7,12,0,"My business account was frozen without proper notification, causing significant operational disruptions."
+CUST-879207,78,F,retiree,retired,66598.28,708,35374.84,21.84,31587.53,36,0,Your representatives are always polite and respectful when I call.
+CUST-419439,73,F,retiree,retired,37686.99,733,2694.56,38.01,2297.42,12,0,The helpfulness and kindness shown at the bank branch meant so much.
+CUST-561481,59,F,professional,Chief Marketing Officer,78725.89,676,34118.8,34.61,39839.11,36,0,The bank is committed to making the community a better place.
+CUST-530732,24,F,young_adult,Intern,21255.92,655,139.93,75.67,9907.87,24,0,Bills are split easy now!
+CUST-438044,69,M,retiree,retired,66193.22,764,17274.01,33.71,21783.15,12,0,I'm extremely happy with how the pension plan is managed.
+CUST-734229,28,F,professional,Physiotherapist,32206.88,660,32629.95,24.47,18477.82,36,0,The integration of mobile banking with other financial tools is seamless.
+CUST-135885,23,F,young_adult,None,13989.9,547,77.63,66.94,4431.91,24,1,My student loan interest rate is higher than the original quote!
+CUST-975958,36,F,professional,Cytogeneticist,75363.75,782,18610.24,54.82,14293.12,60,0,I commend the bank's commitment to providing excellent customer support.
+CUST-765124,39,M,professional,Field seismologist,93067.3,815,24746.41,61.99,20334.78,12,0,The bank's proactive approach to fraud prevention is highly reassuring.
+CUST-739668,30,F,professional,Water engineer,78832.49,588,8577.14,40.28,34633.23,24,1,I have been consistently impressed with the professionalism of the banking staff.
+CUST-464175,68,M,retiree,retired,58678.05,720,39806.04,31.27,11914.2,24,0,The ease of managing my pension online is a wonderful convenience.
+CUST-286550,22,F,young_adult,Barista,17369.48,552,67.06,58.35,8798.81,12,1,I don't understand any of the Crypto jargon.
+CUST-852420,30,M,professional,Occupational therapist,62522.98,766,19645.12,58.28,29519.93,60,1,The bank's response to potential fraudulent activity on my account was slow and inadequate.
+CUST-373159,71,F,retiree,retired,47236.3,719,9571.21,34.6,18504.06,36,1,I'm unable to access my statements online; the website keeps crashing on my computer.
+CUST-454779,78,F,retiree,retired,36358.57,670,3755.75,26.78,15188.62,24,1,The bank's advertising is misleading; the reality is never as good as they claim.
+CUST-771530,50,F,professional,Fine artist,68473.94,741,19180.5,63.75,2922.0,12,0,Efficient resolution of my inquiries is always a plus.
+CUST-973563,19,F,young_adult,Barista,10216.26,651,113.87,62.47,3918.54,24,0,I'm being charged unexpected fees that weren't disclosed upfront.
+CUST-140296,72,F,retiree,retired,43443.47,592,1816.93,41.59,18801.85,36,1,The staff act like they are doing a favor to their clients to answer their queries
+CUST-213927,62,M,retiree,retired,51109.4,578,18857.95,19.3,15485.14,36,1,"This new bank card is confusing, and the instructions are not clear; what am I supposed to do?"
+CUST-892381,41,M,professional,Special effects artist,68918.65,758,43284.27,48.74,32316.41,12,0,Clear changes were beneficial to the account.
+CUST-458747,72,M,retiree,retired,59528.1,736,14557.5,33.16,30003.59,24,1,This bank does not understand the needs of senior citizens anymore and caters to the young.
+CUST-307324,31,F,professional,Consulting civil engineer,107533.12,751,25904.0,70.43,44902.39,12,0,I've been consistently impressed with the professionalism of the banking staff.
+CUST-926556,54,F,professional,General practice doctor,41094.42,815,20538.42,46.45,12810.22,36,0,"My business account was frozen without proper notification, causing significant operational disruptions."
+CUST-358064,71,M,retiree,retired,21992.1,731,3836.85,26.8,4652.03,60,0,The staff at the local branch are always so kind and accommodating.
+CUST-899406,65,M,retiree,retired,28895.06,629,12189.79,17.43,9714.27,36,0,The password reset process was surprisingly easy; thank you for that.
+CUST-317322,22,F,young_adult,Part-time Server,16748.87,526,631.39,75.91,6617.09,24,0,The mobile app design is slick and easy to navigate!
+CUST-782059,35,F,professional,"Production assistant, radio",105054.82,706,25911.83,52.09,56965.94,36,0,I have been consistently impressed with the professionalism of the banking staff.
+CUST-998803,27,F,professional,Higher education lecturer,73558.07,706,54682.49,10.88,26863.37,24,0,"The bank's website is difficult to navigate, making it hard to find relevant information quickly."
+CUST-828674,65,F,retiree,retired,48476.59,716,1455.4,52.65,24648.44,24,0,I feel reassured knowing that my money is in safe hands with you.
+CUST-668609,38,M,professional,"Surveyor, hydrographic",59007.91,635,16581.6,48.56,25610.18,36,1,The bank's mobile banking app is clunky and lacks essential functionality for businesses.
+CUST-775180,29,F,professional,Orthoptist,137515.79,752,33218.82,38.51,19486.66,36,0,Efficient resolution of my inquiries is always a plus.
+CUST-838239,20,M,young_adult,Part-time Server,16435.48,457,26.77,79.76,6198.21,12,1,The bank's crypto platform is confusing and difficult to understand.
+CUST-475015,80,M,retiree,retired,49595.92,661,11478.58,25.94,4718.0,60,1,This bank always makes things difficult. Why can't things be simpler?
+CUST-756013,65,F,retiree,retired,39875.54,683,3642.43,24.85,15211.27,12,0,The security measures you have in place give me great peace of mind.
+CUST-300557,73,F,retiree,retired,42295.74,762,3332.75,10.7,24053.74,12,0,I appreciate the security measures in place to protect my account.
+CUST-988327,38,F,professional,Magazine features editor,63241.89,778,11662.78,59.06,21931.9,36,0,I am grateful for the personalized attention I received during my home loan application.
+CUST-806017,43,F,professional,Building control surveyor,100452.55,726,5456.51,25.63,11938.96,36,0,Security makes me feel like I can be worry-free from theft.
+CUST-154679,54,F,professional,Regulatory affairs officer,51299.0,775,37743.73,30.4,13277.67,36,0,User-friendly online platform simplifies managing my finances.
+CUST-627593,22,M,young_adult,Intern,19532.46,557,250.02,89.08,2428.56,60,0,I am excited to have chosen this banking app!
+CUST-253028,40,M,professional,Restaurant manager,66604.64,746,13241.68,43.65,6110.75,12,0,I am concerned about the bank's role in perpetuating social inequality.
+CUST-815084,46,F,professional,"Surveyor, planning and development",64907.4,697,19911.52,35.99,33753.69,60,0,Competitive interest rates on business savings are a great benefit.
+CUST-259265,69,M,retiree,retired,41864.56,690,32911.11,41.25,13336.15,24,1,I’m thankful for the dedicated customer service and support.
+CUST-350876,30,M,professional,Arts development officer,85307.06,709,29828.98,54.85,50518.69,60,0,Security helped make sure my employees were not scammed.
+CUST-854038,74,F,retiree,retired,61001.84,688,20897.59,32.1,28553.25,60,0,I'm relieved my retirement savings are well-managed and protected.
+CUST-271869,36,F,professional,"Therapist, art",109903.05,721,34301.65,47.72,2189.21,12,0,The great advice from the financial staff made me want to stay.
+CUST-880823,46,M,professional,Medical illustrator,66570.55,775,34851.2,57.83,18842.46,60,0,I value the bank's commitment to ethical and transparent practices.
+CUST-846376,70,F,retiree,retired,51739.54,703,3134.86,29.33,27917.98,60,0,Your representatives are always polite and respectful when I call.
+CUST-704704,66,M,retiree,retired,49539.51,650,17156.12,25.95,20337.65,36,1,"I can't see my historical statements, the new site is very clunky and inaccessible"
+CUST-354561,34,F,professional,Emergency planning/management officer,31655.72,783,18954.77,25.81,14214.11,60,1,"I experienced frequent outages of the online banking platform, disrupting my workflow."
+CUST-702316,60,M,retiree,retired,34745.51,634,856.08,51.36,18985.68,36,1,I find the online banking portal incredibly difficult to navigate; it's not user-friendly.
+CUST-138394,55,M,professional,Senior tax professional/tax inspector,102757.69,701,49010.24,28.85,32929.26,24,1,"Customer service is unresponsive, making it difficult to resolve pressing business account issues quickly."
+CUST-188947,75,F,retiree,retired,48927.91,747,29236.62,29.1,7792.41,24,0,Thank you for taking the time to help explain the interest rates.
+CUST-991546,67,F,retiree,retired,30092.49,738,1431.8,25.13,6018.49,24,0,The bank keeps sending me confusing emails; I can't understand what they want from me.
+CUST-590012,77,M,retiree,retired,60357.06,585,9721.9,43.04,10781.7,24,0,I was very impressed with the efficient service I received at the branch.
+CUST-496453,39,M,professional,Agricultural engineer,60317.63,707,8282.99,40.64,20644.11,36,0,The clear and concise communication regarding account updates is very helpful.
+CUST-625304,65,F,retiree,retired,54279.18,675,2193.22,22.22,6514.76,60,0,The ease of managing my pension online is a wonderful convenience.
+CUST-356257,60,F,retiree,retired,44753.63,645,527.59,51.34,21731.11,24,1,I appreciate the personal touch I receive in the local branch.
+CUST-879885,22,M,young_adult,Student,22042.08,774,202.64,70.75,3045.02,36,0,Their financial tools helped me get loans under control!
+CUST-303496,36,F,professional,Armed forces training and education officer,40935.8,781,17030.63,39.94,6049.86,60,0,Seemless mobile banking made it a breeze to control my finances.
+CUST-282362,21,F,young_adult,Part-time Server,9755.02,464,118.66,63.51,5836.34,60,1,"I needed fast cash urgently, but the bank offered me a ridiculously low amount."
+CUST-963565,53,M,professional,"Engineer, technical sales",74932.7,723,24583.61,42.89,31385.34,12,0,The mortgage options available were tailored to my specific financial situation.
+CUST-807403,55,M,professional,Agricultural engineer,80369.42,725,4590.52,33.71,46968.67,24,0,The expertise of the banking staff was invaluable in securing my business loan.
+CUST-660130,53,M,professional,"Social research officer, government",86664.59,745,38425.65,65.48,14698.01,60,0,I commend the bank's dedication to providing excellent customer service.
+CUST-697092,23,F,young_adult,Barista,17578.2,570,789.48,72.58,3999.96,36,0,Customer support agents were quick to solve a minor issue!
+CUST-928928,66,M,retiree,retired,33140.37,784,9741.64,26.4,15255.84,60,1,I'm concerned that my personal information might be at risk of a data breach.
+CUST-116391,62,F,retiree,retired,39784.98,607,15868.54,35.15,17305.18,12,1,I'm disappointed that the bank is not more innovative; they're falling behind the competition.
+CUST-578814,38,F,professional,Travel agency manager,67737.58,707,12932.82,46.05,16569.71,24,0,The mortgage options were tailored to my individual financial needs.
+CUST-764186,44,F,professional,Music therapist,85878.44,685,13824.4,45.35,20876.04,60,0,The clarity of the loan terms and conditions was appreciated.
+CUST-441242,63,F,retiree,retired,34714.33,685,3248.35,17.75,9247.51,60,0,I was so thankful for the help with the online portal.
+CUST-102818,18,M,young_adult,None,21759.81,580,1007.53,72.11,10558.48,60,1,The crypto platform is down more often than it's up. I can't rely on it.
+CUST-916782,40,M,professional,"Embryologist, clinical",73759.82,798,49481.49,82.61,11249.21,12,0,The online loan application process was efficient and easy to complete.
+CUST-753235,57,F,professional,Database administrator,119826.66,665,65699.55,54.73,57933.46,36,0,The variety of financial products offered meets my diverse investment requirements.
+CUST-156429,43,M,professional,"Engineer, site",132809.66,720,76659.25,67.29,32041.87,12,0,Competitive interest rates on savings accounts are a major benefit.
+CUST-532613,65,M,retiree,retired,42782.91,697,1181.23,27.86,10299.32,24,0,The phone support agent was incredibly patient with me and my queries.
+CUST-522135,56,M,professional,"Surveyor, building",79960.36,850,14857.82,63.73,29911.67,12,0,The bank's community involvement is something I truly admire.
+CUST-585750,42,M,professional,"Designer, graphic",55609.08,779,17750.11,55.01,27901.29,60,0,The ease of managing my finances online has saved me valuable time and effort.
+CUST-403842,42,F,professional,Therapeutic radiographer,51989.55,762,14873.01,56.69,6664.55,24,0,The implemented security provides peace of mind during transactions.
+CUST-585867,21,F,young_adult,Student,22793.97,668,105.59,64.27,12788.22,36,1,There aren't enough features to do what I need.
+CUST-626943,45,M,professional,"Nurse, children's",55376.48,787,17740.72,52.15,29872.1,12,1,The interest rates on my business account are excessively high and detrimental to my profitability.
+CUST-166248,65,F,retiree,retired,41754.13,676,5550.74,27.24,3159.44,24,1,"I feel like the bank is treating me like a number, not a person."
+CUST-338099,67,M,retiree,retired,69976.86,721,22556.25,27.82,37309.29,24,1,"I keep getting locked out of my account; the security is so restrictive, it's inconvenient."
+CUST-539074,36,M,professional,"Therapist, occupational",102795.75,690,27087.92,55.99,30117.8,36,1,The lack of transparency in the account statements makes it difficult to track my expenses effectively.
+CUST-156068,53,M,professional,Legal secretary,78098.35,726,59206.23,79.46,18176.62,36,0,Clarity of loan terms and conditions made me trust the process.
+CUST-848910,63,M,retiree,retired,51271.4,784,4491.74,34.64,13415.64,36,0,Your customer service team helped me solve my issue promptly.
+CUST-980537,63,F,retiree,retired,33666.36,726,7743.59,19.48,7462.78,24,0,The branch on Main Street is always clean and the staff is friendly.
+CUST-187672,43,F,professional,"Production assistant, television",117037.49,684,14716.73,66.71,4203.47,24,0,The bank's community involvement is something I truly admire.
+CUST-947000,60,M,retiree,retired,63611.51,663,3308.34,37.56,10493.68,24,0,I appreciate your care and attention in managing my finances.
+CUST-803556,47,F,professional,Product manager,36251.27,734,25562.4,57.68,9058.28,24,0,The reliable international funds help me focus on business.
+CUST-194465,69,F,retiree,retired,40760.01,717,31306.5,36.85,18388.82,24,1,This bank does not understand the needs of senior citizens anymore and caters to the young.
+CUST-369579,74,M,retiree,retired,51348.45,631,16678.56,16.32,2705.14,60,0,The interest rates are just awful. Why are they so low when I'm on a fixed income?
+CUST-451863,43,M,professional,Health promotion specialist,115580.35,698,56168.53,47.02,49654.68,24,0,I am impressed with the bank's proactive approach to preventing fraud.
+CUST-300553,58,F,professional,Management consultant,86002.17,740,43041.7,46.74,18675.53,12,0,The dedication to social responsibility is very admirable.
+CUST-775414,69,F,retiree,retired,45365.37,688,9006.04,26.99,17283.31,24,0,The bank's commitment to security makes me feel very safe.
+CUST-809641,38,F,professional,Advertising account executive,69484.08,737,21553.96,26.85,6329.36,12,0,Modern technology has improved the banking system.
+CUST-230540,40,M,professional,Armed forces training and education officer,46043.8,609,10388.35,67.78,23887.8,12,0,The efficiency of the online application process for loans was impressive.
+CUST-324134,27,M,professional,"Scientist, research (maths)",86070.46,695,49906.33,63.8,37938.27,24,1,The bank's lack of transparency regarding investment risks is a major concern.
+CUST-581924,61,M,retiree,retired,45178.56,672,9824.52,38.04,20577.8,60,0,The bank staff were great at helping me reset my login credentials.
+CUST-400878,29,M,professional,Market researcher,73850.08,777,29865.96,56.67,12936.15,12,0,I save time with a reliable and trustworthy service.
+CUST-331319,65,M,retiree,retired,44940.39,653,12711.28,31.12,12400.55,36,0,The extra security precautions help ease my worries about online fraud.
+CUST-994905,61,M,retiree,retired,39745.33,699,5389.04,21.23,17616.59,24,0,The customer service representatives were kind and well-informed.
+CUST-960205,61,M,retiree,retired,60380.8,728,27573.99,25.36,22418.41,12,1,The staff act like they are doing a favor to their clients to answer their queries
+CUST-776200,53,F,professional,Data scientist,73539.07,706,35247.53,52.58,5936.83,12,0,I appreciate the straightforward process for international wire transfers; it's very reliable.
+CUST-263547,27,M,professional,Electronics engineer,42733.84,741,10808.27,40.25,16430.94,12,1,I am worried about the bank's long-term financial stability given recent economic challenges.
+CUST-419700,47,F,professional,Occupational hygienist,112555.74,803,45064.89,53.24,33222.12,24,0,The staff knows how to help without being invasive.
+CUST-256941,44,F,professional,Community development worker,103259.69,701,42578.5,59.04,24109.2,12,0,Security makes me feel like I can be worry-free from theft.
+CUST-226931,72,M,retiree,retired,43959.57,658,2196.08,20.86,15585.33,60,0,The customer service is excellent and my questions were answered quickly.
+CUST-743911,59,M,professional,Theatre director,58648.07,688,12927.86,52.14,11905.13,24,0,Mobile banking has greatly benefitted my business partner.
+CUST-760914,52,F,professional,Horticultural consultant,49624.84,727,19993.36,59.36,3906.68,24,1,I experienced several technical issues when trying to access my account statements online.
+CUST-371974,73,M,retiree,retired,27551.09,600,13418.99,40.65,12580.28,12,1,"The bank never protects the customer's interest, but the bank is always protected."
+CUST-271305,27,F,professional,Land,61634.4,666,19454.47,59.32,20550.6,12,0,My experience using the financial services is consistenly excellent.
+CUST-233227,43,M,professional,"Designer, television/film set",48079.91,777,14633.16,80.86,19197.05,12,0,The bank's dedication to community involvement is something I admire.
+CUST-152425,40,M,professional,"Sound technician, broadcasting/film/video",61357.24,725,11040.43,32.34,15290.34,24,0,The mortgage options were tailored to my individual financial needs.
+CUST-726768,39,F,professional,"Buyer, retail",85209.19,690,19286.82,48.82,48021.85,24,1,I am concerned about the bank's role in perpetuating social inequality.
+CUST-385853,40,F,professional,Investment analyst,63853.11,735,16238.0,71.98,19516.5,36,0,The great advice from the financial staff made me want to stay.
+CUST-912720,33,M,professional,"Teacher, secondary school",47860.78,688,23898.16,31.94,16820.05,24,0,The staff knows how to help without being invasive.
+CUST-346355,31,M,professional,Commissioning editor,68682.18,763,11349.59,68.91,15568.81,12,0,The reliable international funds help me focus on business.
+CUST-504375,26,M,professional,Statistician,86091.84,673,70929.76,40.5,33222.81,12,0,Setting up and managing business accounts is very convenient.
+CUST-747330,28,M,professional,Chief of Staff,62586.65,782,4931.07,71.8,32878.5,24,0,I am grateful for the personalized attention I received during my home loan application.
+CUST-515978,32,M,professional,Paramedic,106303.85,570,38778.59,62.23,31688.93,24,1,The bank's fee structure for business overdraft protection is punitive and excessive.
+CUST-724223,42,F,professional,Office manager,68106.55,716,2579.26,56.26,10363.81,60,0,Reliable international wire transfer service is essential for my business.
+CUST-764070,24,F,young_adult,None,20603.76,460,209.98,68.28,11274.49,12,1,I'm struggling to keep up with my student loan payments due to the high interest.
+CUST-660933,41,M,professional,"Psychologist, educational",44816.95,704,44384.99,66.61,10000.54,60,0,The customer service team was knowledgeable and responsive to my concerns.
+CUST-401454,47,M,professional,Economist,124525.81,671,11858.44,70.91,74032.08,36,0,The bank's dedication to community involvement is something I admire.
+CUST-653819,77,F,retiree,retired,42306.18,643,2445.56,22.27,8132.84,36,0,It's nice to know my pension fund is safe and secure.
+CUST-583433,36,F,professional,Retail buyer,71690.6,678,48851.26,38.6,24807.42,36,0,I am grateful for the personalized attention I received during my home loan application.
+CUST-753736,62,F,retiree,retired,41771.58,661,1064.29,23.19,10468.77,36,0,"The new password requirements keep my finances safe and secure, right?"
+CUST-783566,78,M,retiree,retired,55108.78,624,9362.44,17.49,24940.29,24,1,There are way too many new things to memorize to access the bank online.
+CUST-620103,64,M,retiree,retired,18383.47,624,3765.49,18.0,6523.82,24,0,The bank staff were knowledgeable and provided great service.
+CUST-943332,35,F,professional,Hydrogeologist,88949.96,710,31556.6,53.95,19198.67,12,0,The range of investment options is well-suited to my financial objectives.
+CUST-967341,56,M,professional,Forensic scientist,120742.91,751,62401.89,61.28,2546.0,60,0,The bank's interest rates are not competitive for commercial real estate mortgages.
+CUST-862160,65,F,retiree,retired,46603.81,749,7949.08,35.48,16081.3,36,0,Thank you for helping me keep my account information secure.
+CUST-414784,18,M,young_adult,None,13240.85,536,257.88,61.8,6852.69,60,1,I don't understand any of the Crypto jargon.
+CUST-116810,28,F,professional,Speech and language therapist,82310.36,616,21480.83,77.86,6977.55,24,0,Prompt customer support is beneficial to everyone in the bank.
+CUST-284319,64,F,retiree,retired,38227.82,571,1775.34,40.78,4152.47,24,0,I'm relieved my retirement savings are well-managed and protected.
+CUST-232348,23,M,young_adult,Student,25460.82,581,686.34,74.79,12730.0,12,1,The app is constantly giving me error messages.
+CUST-519083,29,M,professional,Proofreader,73178.17,687,16037.87,43.83,2815.84,24,1,I am disappointed with the lack of personalized service and attention to my specific financial needs.
+CUST-629778,65,M,retiree,retired,42085.86,675,4942.57,27.01,11840.27,12,1,The branch staff always greet me with a smile; that’s important.
+CUST-808832,79,F,retiree,retired,42488.41,618,29159.05,40.09,18895.14,60,1,The bank's community involvement is declining; they're not giving back to the community.
+CUST-749848,19,F,young_adult,Barista,12215.02,511,177.09,58.15,4828.43,12,1,The speedy transfer times are a real win!
+CUST-117905,24,M,young_adult,Barista,6013.05,552,83.79,61.33,3146.32,12,1,The app is constantly draining my phone's battery. It's a power hog.
+CUST-689952,19,M,young_adult,None,18508.55,665,496.69,82.69,5074.0,60,0,I'm impressed with the bank's commitment to serving younger demographics.
+CUST-531482,75,M,retiree,retired,45559.48,561,2520.01,36.9,11324.75,36,1,"Your helpful customer service is a great comfort, thank you."
+CUST-696261,59,M,professional,"Production designer, theatre/television/film",98378.25,728,14407.51,67.25,23222.41,36,0,Seamless mobile banking integration is a major convenience.
+CUST-335789,77,M,retiree,retired,55845.41,642,3331.99,8.1,32480.91,24,0,The staff in the branch were very helpful answering my pension questions.
+CUST-336108,74,M,retiree,retired,32862.36,712,9802.09,19.04,5354.51,60,0,The branch on Main Street is always clean and the staff is friendly.
+CUST-197419,32,F,professional,Early years teacher,132613.04,693,18878.09,44.97,51445.24,60,0,I value the bank's commitment to ethical business practices.
+CUST-233011,77,M,retiree,retired,42295.79,695,3430.02,49.7,20943.9,60,0,The new security measures definitely make me feel safer with my finances.
+CUST-872919,53,M,professional,Minerals surveyor,72054.93,628,10788.51,59.49,36456.14,12,1,I am dissatisfied with the limited accessibility of branches and ATMs in my area.
+CUST-191062,29,F,professional,Midwife,98121.87,746,45410.03,48.64,26721.08,60,1,I am concerned about the security of my personal information on the bank's online platform.
+CUST-172835,22,M,young_adult,Student,14300.81,657,289.96,66.92,5013.37,36,1,The app's user interface is confusing and unintuitive for splitting bills.
+CUST-918130,52,M,professional,Public librarian,70296.77,714,37605.77,29.09,12102.46,24,0,Your mortgage options provided me with the flexibility I needed for my new home purchase.
+CUST-291927,62,M,retiree,retired,39551.73,614,3663.67,13.52,4954.49,12,1,The security measures give me great confidence in your services.
+CUST-285924,62,M,retiree,retired,63433.85,576,3262.85,38.93,15916.99,36,1,I feel trapped by the bank; it's too much hassle to switch to another one.
+CUST-920835,35,F,professional,Sales executive,106786.47,643,19689.86,20.23,46071.16,60,0,Innovation has significantly improved my overall banking experience.
+CUST-907816,40,M,professional,Call centre manager,77981.76,704,15568.49,55.52,28603.72,60,0,I commend the bank's dedication to providing excellent customer service.
+CUST-492099,28,F,professional,Housing manager/officer,73354.13,703,7910.6,44.88,9533.89,60,0,Your mortgage options provided me with the flexibility I needed for my new home purchase.
+CUST-522819,49,F,professional,"Engineer, structural",38512.87,781,6144.32,48.97,3825.02,12,0,I commend the bank's commitment to providing excellent customer support.
+CUST-522000,31,M,professional,"Psychologist, educational",91617.41,711,47652.13,85.71,18085.19,36,0,Seamless mobile banking integration is a major convenience.
+CUST-422283,61,M,retiree,retired,30637.54,710,4311.07,32.89,15829.05,12,1,This bank is never reliable. What a shame.
+CUST-953481,32,M,professional,Recycling officer,76798.15,737,6148.61,40.45,45230.97,12,1,I appreciate the competitive interest rates on business savings accounts.
+CUST-510771,67,F,retiree,retired,12521.74,696,2887.21,31.68,5937.13,36,0,I like having a real person to talk to at the bank branch.
+CUST-576915,53,F,professional,IT technical support officer,113142.63,802,8695.75,44.04,20452.22,60,0,Prompt customer support is beneficial to everyone in the bank.
+CUST-737859,24,F,young_adult,None,13371.02,504,880.51,71.29,3254.07,12,1,Splitting bills with the family using this thing is just a nightmare.
+CUST-246318,19,F,young_adult,Intern,14225.74,624,187.63,73.91,5972.63,60,0,Appreciate the mobile check deposit. So convenient!
+CUST-882334,56,F,professional,Insurance claims handler,49030.37,718,3764.34,37.31,9027.07,12,0,User-friendly online platform simplifies managing my finances.
+CUST-407584,64,M,retiree,retired,50811.78,729,2234.73,25.18,7464.12,60,0,The staff always provide excellent service in my branch.
+CUST-808205,55,M,professional,Corporate investment banker,76204.02,731,39001.65,51.79,24950.65,12,0,The bank made it easy to set up a bank account.
+CUST-104282,53,M,professional,Politician's assistant,59163.98,706,2782.74,58.86,25708.46,36,0,The bank's proactive approach to fraud prevention is highly reassuring.
+CUST-701809,19,F,young_adult,Student,6249.97,583,59.02,72.29,2354.87,24,0,"The online banking platform is sleek and efficient, a breeze to navigate."
+CUST-913203,43,F,professional,Counsellor,56123.47,765,8950.07,85.22,24881.26,60,0,The ease of setting up and managing business accounts has been a significant benefit.
+CUST-824882,58,M,professional,"Exhibitions officer, museum/gallery",87999.09,670,15569.08,66.34,47923.93,24,1,I am highly disappointed with the lack of proactive support for my business's financial goals.
+CUST-979859,43,M,professional,Regulatory affairs officer,64013.61,758,6959.44,45.56,34048.74,12,1,Setting up and managing business accounts has been a significant advantage.
+CUST-627000,50,F,professional,Trading standards officer,79589.57,681,7103.31,55.43,11275.95,36,0,My experience using the financial services is consistenly excellent.
+CUST-850013,46,M,professional,TEFL teacher,77732.94,812,22770.5,78.11,42467.19,60,0,The staff has been helpful and has not been invasive.
+CUST-779662,34,M,professional,"Therapist, occupational",102229.15,778,18124.13,49.82,36584.93,60,0,The security measures in place provide peace of mind during transactions.
+CUST-757277,33,F,professional,IT trainer,86180.67,706,57770.76,69.2,34098.97,12,0,I have been consistently impressed with the professionalism of the banking staff.
+CUST-258924,79,F,retiree,retired,56890.33,573,6181.96,51.57,8819.66,60,0,I’m impressed by the level of security and personal service.
+CUST-676282,45,M,professional,Photographer,86316.24,744,1628.06,57.5,28845.76,60,0,The bank's commitment to innovation has greatly improved my banking experience.
+CUST-307589,27,M,professional,Music therapist,113010.8,697,59667.35,58.25,61844.31,24,1,The fees for merchant services are excessive compared to other banks in the area.
+CUST-548595,32,M,professional,Database administrator,136099.86,719,39184.4,64.57,64635.68,12,0,Modern technology has improved the banking system.
+CUST-875065,43,M,professional,Technical sales engineer,87171.7,781,34788.97,51.61,45934.23,24,0,Reliable international money transfers helped my business.
+CUST-536720,46,M,professional,Visual merchandiser,102767.27,686,22749.51,60.45,38066.15,24,0,The variety of financial products offered meets my diverse investment requirements.
+CUST-789200,23,M,young_adult,Intern,19786.2,745,882.47,69.1,10457.57,24,1,Impressed with the innovative features targeted at young professionals.
+CUST-804889,79,M,retiree,retired,50343.38,628,4024.0,21.68,25051.09,60,0,The customer service staff are always extremely considerate.
+CUST-884324,51,M,professional,Agricultural engineer,86464.63,757,35729.59,70.29,4579.26,12,0,The loan conditions are easy to grasp in this bank.
+CUST-614703,75,F,retiree,retired,34831.28,649,1883.23,32.82,15277.88,60,0,I am very satisfied with the friendly and efficient service I receive.
+CUST-481746,38,M,professional,Museum/gallery conservator,115941.96,783,23747.77,45.99,45508.59,36,0,The bank is committed to making the community a better place.
+CUST-719766,37,F,professional,Retail merchandiser,93082.19,699,16191.63,44.59,6097.21,36,0,The bank's fee structure for business overdraft protection is punitive and excessive.
+CUST-529906,73,M,retiree,retired,61967.87,725,20918.74,37.02,6464.96,12,0,I’m very thankful for the extra security measures on my account.
+CUST-678643,80,F,retiree,retired,54156.73,739,6507.34,22.13,19183.18,60,0,"Your attention to security is very helpful, it makes me feel safe."
+CUST-246066,23,F,young_adult,Barista,17446.29,615,697.88,58.7,7141.75,24,1,"I tried to buy crypto, but the transaction failed multiple times. I'm losing patience."
+CUST-875906,43,F,professional,"Scientist, water quality",67544.14,850,10131.1,17.64,20220.5,60,0,The diverse range of financial products offered meets my investment needs.
+CUST-125208,28,M,professional,"Merchandiser, retail",64708.74,684,35931.5,57.53,14015.44,12,0,My request for a credit line increase was rejected despite my strong credit history and financial stability.
+CUST-506674,44,F,professional,Nature conservation officer,111609.67,671,31726.28,58.92,10373.67,24,0,The staff has been helpful and has not been invasive.
+CUST-295083,19,M,young_adult,Part-time Server,18970.4,472,208.4,86.82,10702.71,36,1,Splitting bills is a total headache using this app. It's incredibly frustrating.
+CUST-573284,70,M,retiree,retired,54496.42,762,18307.02,43.0,30433.27,36,0,The staff in the branch seem inexperienced and don't know the answers to my questions.
+CUST-633694,63,F,retiree,retired,53686.05,773,5840.23,44.68,23349.57,36,0,I’m thankful for the dedicated customer service and support.
+CUST-487572,80,M,retiree,retired,44175.78,659,17101.26,29.92,18663.4,12,0,I was helped out a lot by the lovely staff at the bank.
+CUST-508877,66,F,retiree,retired,43220.26,620,5999.67,36.14,21647.56,36,0,The staff at my local branch are friendly and always ready to help.
+CUST-233362,34,M,professional,"Engineer, civil (contracting)",61385.06,850,64689.52,37.36,17180.45,60,0,I am happy to choose this bank to do my banking.
+CUST-449251,56,F,professional,Chartered management accountant,73492.1,697,28452.71,35.58,14205.73,60,0,This bank is the best in terms of fraud prevention.
+CUST-331342,59,F,professional,"Geneticist, molecular",117274.71,703,26064.22,79.39,3669.42,36,0,My experience with your financial services has been consistently positive.
+CUST-894262,37,F,professional,"Producer, radio",41549.14,714,13269.41,48.03,11880.77,12,0,The competitive interest rates on savings accounts are a definite draw.
+CUST-467965,35,F,professional,Civil Service administrator,70971.2,705,9760.78,68.6,35230.0,24,1,The lack of support for small business clients is disappointing; I feel like just another number.
+CUST-281153,41,M,professional,Chief Financial Officer,115648.27,739,62492.42,44.22,53934.53,36,1,I am disappointed with the lack of transparency in the account statements.
+CUST-453597,64,M,retiree,retired,39944.67,543,18542.72,31.57,3666.5,12,1,"The bank's policies seem designed to benefit them, not their customers."
+CUST-678143,60,M,retiree,retired,40173.94,725,8358.45,46.87,20728.6,12,0,It means a lot knowing my funds are managed with care.
+CUST-451888,33,M,professional,Politician's assistant,105898.44,644,24233.82,64.0,28132.05,36,1,"I experienced significant delays in processing a wire transfer, impacting a crucial business deal."
+CUST-167351,67,F,retiree,retired,36549.54,715,3829.56,28.46,16943.04,60,1,The bank's customer service is not helpful. It's disappointing.
+CUST-315708,43,F,professional,Production engineer,61743.78,780,23617.01,74.23,32930.74,24,0,The implemented security provides peace of mind during transactions.
+CUST-124258,39,F,professional,Government social research officer,89775.84,719,31317.37,36.41,4057.0,12,0,Security makes me feel like I can be worry-free from theft.
+CUST-211727,68,F,retiree,retired,37521.81,702,12363.52,45.74,16558.43,24,0,This bank's website is too advanced. Is there a simpler version available?
+CUST-495737,33,F,professional,Contractor,71453.64,725,30892.05,61.01,18170.61,36,0,My business is now easier than ever to manage with these banks.
+CUST-679749,66,M,retiree,retired,46673.82,651,5160.99,24.83,26196.53,24,0,I'm concerned that the bank is not prepared for the future; it will eventually fail.
+CUST-271276,24,F,young_adult,None,10814.87,635,69.41,64.28,6059.76,60,0,The crypto features are cutting-edge!
+CUST-836748,31,M,professional,Tourist information centre manager,135993.32,747,57135.46,60.91,4417.58,24,0,The security measures in place provide peace of mind when conducting transactions.
+CUST-742450,58,F,professional,Clinical cytogeneticist,108075.05,734,57417.0,51.95,40992.53,36,0,Financial recommendations were easy and valuable.
+CUST-311363,52,M,professional,Teaching laboratory technician,97750.79,729,6045.37,31.14,28108.46,36,0,Proactive approach to fraud prevention makes me feel safe and secure.
+CUST-571831,26,F,professional,Hydrologist,79323.82,660,25093.09,60.8,5799.76,60,0,The customer service team was knowledgeable and helpful in addressing my concerns.
+CUST-236370,31,M,professional,Theme park manager,58683.27,821,25890.95,47.41,22385.14,36,1,The bank's response to a potential security breach was slow and unsatisfactory.
+CUST-853643,71,M,retiree,retired,50982.82,727,13246.06,25.97,8947.68,12,0,"The new password requirements keep my finances safe and secure, right?"
+CUST-179724,34,M,professional,Financial risk analyst,78827.26,745,31763.01,41.55,18094.72,12,0,The range of financial products is exactly what I need for investing.
+CUST-593233,42,F,professional,Investment analyst,32533.69,697,6291.29,77.08,3803.98,12,0,I am concerned about the bank's commitment to supporting local businesses.
+CUST-275803,28,F,professional,"Production assistant, radio",98927.08,736,55076.39,41.75,2735.64,12,0,The many investment options made it easy to manage my money.
+CUST-325582,79,M,retiree,retired,62450.69,608,11371.37,20.5,10257.83,60,0,I value the fact that you're there to help and you're local.
+CUST-204656,76,F,retiree,retired,51669.28,780,890.52,58.53,26101.66,12,0,"The staff are always polite and attentive; it’s comforting, really."
+CUST-131957,20,M,young_adult,Student,4335.75,748,26.71,83.02,2323.27,60,0,Mobile app is changing banking positively!
+CUST-507821,62,F,retiree,retired,50695.65,666,458.01,27.56,22019.14,24,0,The employees were very helpful explaining my banking options.
+CUST-792929,47,M,professional,Landscape architect,113801.73,729,39150.94,54.63,54932.34,12,1,The branch hours are inconvenient and do not accommodate my busy work schedule.
+CUST-742911,19,F,young_adult,None,12565.29,592,80.54,80.54,3749.64,36,0,"Appreciate that they offer mobile check deposit, so convenient."
+CUST-680437,36,M,professional,Optometrist,80716.56,612,67738.45,55.92,36517.18,24,1,I find the account management system to be overly complex and difficult to navigate effectively.
+CUST-919227,51,F,professional,"Accountant, chartered public finance",83837.15,713,22888.58,44.9,40051.72,60,0,The seamless integration of mobile banking with other financial tools is a plus.
+CUST-215122,31,M,professional,"Surveyor, quantity",64572.17,596,19759.87,39.84,29750.95,12,1,The bank's response to potential fraudulent activity on my account was slow and inadequate.
+CUST-363845,33,F,professional,Community pharmacist,107746.23,770,4039.22,44.84,22502.8,36,0,Reliable international money transfers helped my business.
+CUST-566794,50,F,professional,Oncologist,107099.55,754,28737.27,71.29,18769.87,60,0,I encountered numerous errors while attempting to deposit a check using the mobile deposit feature.
+CUST-339418,53,F,professional,Operational investment banker,89939.6,749,9267.15,75.96,8634.19,12,0,Customer service was knowledgeable and quick to address my questions.
+CUST-916415,29,F,professional,Medical physicist,66259.84,664,28686.66,52.03,34161.51,60,0,Financial recommendations were easy and valuable.
+CUST-967287,40,F,professional,Health service manager,94255.36,801,34347.63,17.09,48020.82,24,0,I appreciate the competitive interest rates on business savings accounts.
+CUST-126302,24,F,young_adult,Student,13337.7,534,110.02,74.56,2836.93,60,1,The bank's crypto trading platform is not user-friendly.
+CUST-948456,59,F,professional,Statistician,127856.53,786,70981.16,52.64,28359.21,24,0,The bank's mobile deposit feature is frequently unavailable due to technical issues.
+CUST-607633,20,M,young_adult,Intern,15940.45,507,627.68,79.87,7913.34,24,1,The bank keeps blocking my crypto transactions without any explanation.
+CUST-665852,74,M,retiree,retired,26400.35,621,429.89,46.79,9909.6,12,0,I’m thankful for the excellent security measures protecting my finances.
+CUST-417386,41,M,professional,Diplomatic Services operational officer,62974.89,734,31901.58,17.31,26436.2,60,0,The international wire transfer service is efficient and reliable for my business needs.
+CUST-171461,57,F,professional,Consulting civil engineer,41818.52,736,13107.09,44.71,10346.76,24,1,The information provided by different customer service representatives was inconsistent.
+CUST-722214,49,M,professional,Automotive engineer,88763.78,719,27992.25,43.57,15450.1,36,0,The app made it easy to see my profits and losses.
+CUST-899957,43,M,professional,"Civil engineer, contracting",45911.07,739,2453.07,60.79,2796.14,60,0,The staff here knows what they're doing and are professionals.
+CUST-438734,23,M,young_adult,Barista,22937.08,471,741.7,84.84,8837.52,60,1,"I can't find fast cash anywhere, this bank won't help!"
+CUST-164136,46,F,professional,Warehouse manager,105485.12,638,20858.74,51.7,47724.18,12,0,Setting up and managing business accounts has been a significant advantage.
+CUST-156768,29,F,professional,Police officer,53188.04,660,18969.69,37.13,11946.34,12,0,The customer service team was knowledgeable and helpful in addressing my concerns.
+CUST-109707,59,M,professional,Theatre manager,85914.3,746,23992.38,53.89,3132.93,36,0,Loan applications were very simple to understand.
+CUST-588751,63,F,retiree,retired,28074.3,623,5988.84,32.3,12695.15,12,0,Thank you for treating me with such kindness and respect.
+CUST-907959,61,M,retiree,retired,52902.4,662,12509.78,43.69,16146.2,24,0,I really appreciate the helpful and kind staff at the local branch.
+CUST-615604,57,F,professional,"Psychotherapist, child",72747.11,706,24891.98,77.94,27901.39,36,0,Reliable international wire transfer service is essential for my business.
+CUST-408189,58,F,professional,Health physicist,86262.29,672,42235.53,64.1,13196.15,36,0,Competitive interest rates on business savings are a great benefit.
+CUST-208599,21,F,young_adult,Part-time Server,824.96,735,0.16,63.23,1825.58,36,0,The budgeting tools in the app helped me start saving!
+CUST-168542,58,M,professional,Insurance underwriter,51792.13,706,17112.94,53.34,8087.57,12,0,"My business account was charged incorrect fees, which took weeks to resolve."
+CUST-692072,75,M,retiree,retired,57418.24,592,11643.66,29.12,17941.16,60,0,"The branch is a really friendly place, it's nice to be there."
+CUST-297109,24,F,young_adult,Part-time Server,16967.76,584,376.71,79.87,8066.94,24,1,Splitting bills is a total headache using this app. It's incredibly frustrating.
+CUST-177150,58,M,professional,Metallurgist,91659.3,824,63454.46,57.57,22467.53,12,0,I save time with a reliable and trustworthy service.
+CUST-659583,36,F,professional,"Biochemist, clinical",75210.89,657,22127.08,43.44,35841.51,36,0,The online application process for loans was efficient and easy to navigate.
+CUST-590693,34,M,professional,Database administrator,78961.08,776,45705.22,81.21,16516.52,12,0,Clear changes were beneficial to the account.
+CUST-685754,43,F,professional,Dispensing optician,90404.18,709,55170.54,48.85,38582.69,12,1,I have consistently had a positive experience with your financial services.
+CUST-815970,74,F,retiree,retired,44620.93,694,5178.44,56.27,25115.21,36,0,I’m grateful for the clear explanation of the services you provide.
+CUST-830138,30,M,professional,Curator,46322.22,668,6272.97,52.5,2262.52,36,0,I appreciate the proactive notifications regarding my account activity.
+CUST-738742,46,M,professional,"Designer, textile",90940.83,818,25606.51,50.29,28974.51,24,0,The staff here knows what they're doing and are professionals.
+CUST-210239,29,F,professional,English as a second language teacher,85850.71,674,4347.1,58.74,26183.24,24,0,My business is now easier than ever to manage with these banks.
+CUST-869262,47,M,professional,Land/geomatics surveyor,88723.1,625,26572.44,59.52,25875.95,60,0,I'm impressed with the competitive interest rates offered on your premium accounts.
+CUST-572373,20,M,young_adult,Intern,10071.19,446,34.83,66.92,2644.76,24,1,"I needed fast cash, but the loan application process was incredibly lengthy."
+CUST-665112,31,F,professional,"Designer, furniture",125211.51,694,62792.46,44.25,33537.74,36,0,The competitive interest rates on savings accounts are attractive.
+CUST-538203,40,M,professional,Trading standards officer,85677.02,699,14521.55,51.48,5473.14,36,0,Mortgage options were tailored to my specific financial circumstances.
+CUST-662396,25,M,professional,Archivist,80002.75,606,57596.41,40.18,2526.99,36,1,I am disappointed by the lack of personalized attention to my specific business needs.
+CUST-101231,37,M,professional,Games developer,143869.52,721,88844.04,55.55,58112.54,60,1,Personalized attention during my home loan application was invaluable.
+CUST-424253,57,F,professional,"Scientist, audiological",88326.16,703,20637.05,41.15,47669.79,36,0,Saving money on savings accounts can help so much!
+CUST-490012,31,F,professional,Forest/woodland manager,43800.81,714,6726.41,61.18,5806.38,60,0,The loan conditions are easy to grasp in this bank.
+CUST-182336,58,M,professional,Building services engineer,118610.1,615,25389.16,63.79,42696.38,12,1,"The wire transfer process is slow and inefficient, causing delays in international payments."
+CUST-840874,77,F,retiree,retired,37055.83,646,9618.86,31.62,16378.9,60,1,"I tried to reset my password, but it just kept saying 'error'; I'm very frustrated."
+CUST-509063,42,F,professional,"Conservator, furniture",70125.07,812,68090.66,42.2,5769.22,24,0,The bank's commitment to innovation has greatly improved my banking experience.
+CUST-332641,57,M,professional,Theme park manager,108995.63,732,15207.92,49.85,4850.84,12,0,Competitive savings account interest rates make my business so simple.
+CUST-110652,31,F,professional,Geographical information systems officer,87815.96,703,31255.13,50.03,30068.64,24,0,I commend the bank's commitment to providing excellent customer support.
+CUST-912710,76,M,retiree,retired,24858.94,754,5029.99,47.96,5157.19,24,1,"The bank is constantly changing, and I get a headache just trying to understand the changes"
+CUST-942877,52,F,professional,Call centre manager,81659.74,739,7495.68,61.31,34502.09,24,1,I experienced significant delays in receiving a tax refund due to the bank's negligence.
+CUST-905309,20,F,young_adult,Part-time Server,12032.92,625,251.19,73.52,6380.6,12,0,The quick features are wonderful!
+CUST-900527,47,M,professional,Commercial horticulturist,28321.02,624,14321.24,40.55,3092.1,36,0,The fees charged for overdraft protection are predatory and disproportionate to the service provided.
+CUST-787828,45,M,professional,Fish farm manager,106848.38,697,22350.16,45.84,9288.75,60,0,Excellent savings account interest rates are truly beneficial.
+CUST-339059,51,M,professional,Art therapist,78958.91,658,65049.03,46.47,33990.07,36,0,I have consistently had a positive experience with your financial services.
+CUST-694125,73,F,retiree,retired,56174.56,688,16329.9,31.82,25439.83,24,1,The bank's communication is confusing; I rarely understand what they're telling me.
+CUST-472663,22,F,young_adult,Student,13568.8,751,140.54,57.01,4650.81,60,0,I am very pleased with the support available on the app!
+CUST-701650,20,M,young_adult,Intern,29450.44,748,1470.86,65.11,13127.4,12,0,The customer support chat is surprisingly helpful and quick to respond.
+CUST-606536,38,M,professional,"Surveyor, building control",120941.51,665,5384.85,55.37,8129.65,60,0,I am impressed with the bank's proactive fraud prevention measures.
+CUST-288273,58,M,professional,"Teacher, music",120179.55,840,34891.01,60.57,55464.14,60,1,My attempts to resolve a billing error have been unsuccessful despite multiple calls.
+CUST-904071,56,F,professional,Occupational psychologist,93591.78,687,60774.54,46.67,8025.72,12,0,High interest rates and benefits are a huge reason to be with the bank.
+CUST-417143,52,M,professional,Astronomer,88687.67,676,35687.66,54.56,50023.8,12,0,I am satisfied with the personalized financial advice I received from my account manager.
+CUST-811500,40,F,professional,Cytogeneticist,119705.24,805,30372.57,45.69,4799.11,12,0,Seamless mobile banking integration is a major convenience.
+CUST-135006,48,F,professional,Ship broker,90142.56,688,51096.87,81.11,28616.75,36,0,Many great products exist that satisfy my needs.
+CUST-679994,40,F,professional,Toxicologist,88668.17,686,3602.33,61.07,29844.68,36,0,Personalized financial advice has been invaluable to my investment strategy.
+CUST-372165,72,F,retiree,retired,52475.07,620,4916.1,23.87,5064.93,36,0,I'm very happy with the assistance I received in securing my account.
+CUST-704386,58,M,professional,Prison officer,49589.24,669,6226.69,51.1,13075.96,24,0,Security makes me feel like I can be worry-free from theft.
+CUST-197834,76,F,retiree,retired,44959.79,641,4397.87,23.89,22234.57,24,1,The bank keeps sending me confusing emails; I can't understand what they want from me.
+CUST-950977,38,F,professional,Dispensing optician,83460.67,712,33750.83,31.47,35367.98,36,1,The bank's failure to adequately protect my personal information has resulted in identity theft.
+CUST-383187,72,F,retiree,retired,48082.74,604,30482.65,43.63,16590.55,12,0,The branch staff were so understanding of my difficulty with the app.
+CUST-999803,57,M,professional,Office manager,56649.7,764,6726.26,52.47,23393.41,12,0,I appreciate the proactive notifications regarding my account activity.
+CUST-595782,73,F,retiree,retired,34190.89,658,5602.63,15.44,16123.95,24,0,The ease of managing my pension online is a wonderful convenience.
+CUST-129874,30,M,professional,"Presenter, broadcasting",72827.31,745,17602.97,60.06,18825.22,12,0,The available online resources are comprehensive and informative.
+CUST-851879,29,F,professional,Chief Executive Officer,75774.07,728,2312.89,43.43,44665.01,24,1,The bank's proactive approach to fraud prevention is highly reassuring.
+CUST-684403,23,M,young_adult,Intern,17669.83,569,65.78,48.13,6483.9,60,1,I can't find anything in this app!
+CUST-396808,67,F,retiree,retired,45419.94,701,13518.71,35.93,20532.88,12,0,Thank you for treating me with such kindness and respect.
+CUST-677028,59,M,professional,"Education officer, museum",76780.96,729,24475.95,45.43,31415.81,24,0,The mortgage options available were tailored to my specific financial situation.
+CUST-659601,55,M,professional,Petroleum engineer,81693.81,724,16739.02,64.11,28083.93,24,0,The bank's dedication to community involvement is commendable.
+CUST-955340,35,M,professional,Meteorologist,121585.9,850,30410.45,55.84,58375.36,24,0,The staff has been helpful and has not been invasive.
+CUST-531201,45,M,professional,Building control surveyor,38394.21,724,16454.53,78.42,8783.94,60,1,I experienced significant delays in receiving a replacement credit card after reporting it lost or stolen.
+CUST-755354,79,F,retiree,retired,39204.04,697,685.24,34.53,11228.81,12,0,I really like having a physical branch to go to if I need it.
+CUST-411764,76,M,retiree,retired,54085.13,633,17622.82,53.97,12694.24,60,0,The bank should have better accessibility options for those hard of seeing.
+CUST-463509,62,M,retiree,retired,23409.26,642,7245.61,8.68,5276.88,12,1,I'm worried about the future of banking; it's all becoming too automated and impersonal.
+CUST-131323,23,M,young_adult,Barista,20960.6,551,142.31,68.32,8464.4,60,1,The interest rates on your student loans are insane! How are we supposed to pay this off?
+CUST-407970,46,M,professional,Dispensing optician,78449.13,697,22622.29,27.16,34882.47,24,0,The seamless integration of mobile banking with other financial tools is a plus.
+CUST-658152,51,F,professional,"Engineer, control and instrumentation",62491.41,766,20518.96,46.12,10228.4,24,0,Many great products exist that satisfy my needs.
+CUST-426057,80,M,retiree,retired,47472.8,620,11195.51,22.39,24971.79,12,0,The staff always go the extra mile in the local branch; it’s heartening.
+CUST-514815,79,M,retiree,retired,47362.77,600,30352.05,12.83,27781.12,24,1,I dislike this bank. I'm closing my account.
+CUST-294830,71,M,retiree,retired,43719.4,651,6987.59,36.98,14711.98,36,0,I appreciate the friendly and helpful service I always receive at the branch.
+CUST-397185,75,M,retiree,retired,34760.85,703,1295.63,22.59,18364.27,60,0,I appreciate the effort that has gone into making things secure.
+CUST-213532,54,M,professional,Financial trader,68833.55,783,27748.0,78.03,28705.49,36,0,Notifications regarding my bank account are helpful and not intrusive.
+CUST-499174,59,M,professional,"Secretary, company",99766.61,738,8814.24,53.9,54724.64,24,1,The bank's mobile app is unreliable and lacks essential features.
+CUST-897008,23,M,young_adult,Part-time Server,6626.06,551,95.93,79.68,2692.71,12,0,The speedy transfer times are a real win for me.
+CUST-723510,72,F,retiree,retired,46436.28,796,17528.61,31.53,22691.48,60,0,I'm extremely happy with how the pension plan is managed.
+CUST-512420,76,F,retiree,retired,59759.87,652,4206.05,21.77,4311.1,24,0,I appreciate the service I get whenever I visit the branch.
+CUST-998680,39,M,professional,Set designer,76622.27,667,12960.59,51.91,7637.97,36,0,I appreciate the straightforward process for international wire transfers; it's very reliable.
+CUST-654350,60,M,retiree,retired,56760.69,631,14205.54,26.4,19935.3,36,0,I appreciate the security measures in place to protect my account.
+CUST-510185,50,F,professional,Information systems manager,99202.99,696,40050.78,32.83,56154.83,60,0,The online application process for loans was efficient and easy to navigate.
+CUST-818876,80,F,retiree,retired,66704.9,688,2861.21,20.94,6630.3,36,0,I’m thankful for the dedicated customer service and support.
+CUST-126672,67,M,retiree,retired,38926.02,690,3264.74,38.72,12927.52,24,0,I feel secure knowing my retirement savings are in good hands.
+CUST-570623,73,F,retiree,retired,33192.09,681,1803.52,44.34,11879.75,12,0,The staff always provide excellent service in my branch.
+CUST-346692,45,F,professional,Lexicographer,100350.69,778,29504.35,79.46,22107.98,12,0,User-friendly online platform simplifies managing my finances.
+CUST-521425,21,M,young_adult,Intern,13085.44,689,154.67,65.17,7463.34,24,0,I've had a great experience with the mobile app!
+CUST-127626,56,F,professional,Market researcher,46210.14,740,15162.85,34.79,15616.92,60,1,I was subjected to excessive questioning and scrutiny when attempting to open a new business account.
+CUST-648126,60,F,retiree,retired,42660.77,719,24686.57,26.1,13085.83,60,0,The branch on Main Street is always clean and the staff is friendly.
+CUST-392476,39,F,professional,Tourism officer,102270.45,727,18538.41,63.76,39034.22,24,0,The bank's online banking platform is vulnerable to hacking and cyberattacks.
+CUST-618510,48,M,professional,Information officer,105223.17,706,10788.98,45.9,40377.05,24,0,The variety of financial products offered meets my diverse investment requirements.
+CUST-813123,64,M,retiree,retired,35545.49,767,3312.06,27.72,19514.72,36,1,This bank always prioritizes profit over customer service and it is not fair.
+CUST-179049,29,F,professional,"Engineer, agricultural",88346.59,743,22585.8,79.48,9934.33,24,0,Mortgage options were tailored to my specific financial circumstances.
+CUST-572975,77,F,retiree,retired,61601.38,574,2551.73,26.67,26520.75,24,1,"The bank's policies seem designed to benefit them, not their customers."
+CUST-489790,29,M,professional,"Engineer, mining",81256.99,648,56560.95,36.82,26890.2,12,0,Saving money on savings accounts can help so much!
+CUST-767346,76,F,retiree,retired,36583.18,650,11032.36,11.3,2951.54,12,1,The bank's legacy is tarnished; it will be remembered for its mistakes.
+CUST-216810,65,M,retiree,retired,33690.67,691,6862.18,33.84,14098.09,36,0,I am grateful for the peace of mind your services have provided me.
+CUST-567119,23,F,young_adult,None,7515.15,557,378.54,70.08,2061.43,36,0,The security features of the app make me feel very safe!
+CUST-310963,58,M,professional,Web designer,72038.62,704,33224.38,55.54,6240.01,12,1,The high fees associated with early withdrawal from a certificate of deposit are unreasonable.
+CUST-924566,22,F,young_adult,None,17476.35,665,546.07,76.77,10350.27,12,0,This is the best banking application I've used!
+CUST-640627,54,F,professional,TEFL teacher,15182.61,727,5243.09,51.1,5675.9,60,0,I appreciate the competitive interest rates on business savings accounts.
+CUST-630479,37,M,professional,IT trainer,111049.49,681,78964.42,52.99,27209.19,36,0,The bank's community involvement is something I truly admire.
+CUST-604006,33,M,professional,Medical illustrator,105515.59,738,60649.76,55.09,36424.47,60,1,The branch hours are inconvenient and do not accommodate my busy work schedule.
+CUST-960630,26,F,professional,"Nurse, mental health",58568.17,826,13093.21,64.76,32248.21,12,1,My mortgage application was inexplicably rejected despite my excellent credit history and stable income.
+CUST-764609,25,M,professional,Field trials officer,78925.42,784,32732.51,39.16,27016.49,60,0,The expertise of the banking staff was invaluable in securing my business loan.
+CUST-893475,65,M,retiree,retired,63280.66,521,4980.26,15.09,31920.1,60,1,I received amazing customer service today; I can't thank you enough.
+CUST-972697,74,F,retiree,retired,41798.16,639,29174.19,50.35,17086.35,36,1,I am very skeptical about how safe my money is in your branch!
+CUST-513006,61,F,retiree,retired,46816.42,634,13413.4,34.73,18871.75,36,1,The bank never answers questions. My phone calls always are sent to voicemail.
+CUST-424079,54,M,professional,Food technologist,142343.64,692,50875.31,55.85,51260.68,12,0,The integration of mobile banking with other financial tools is seamless.
+CUST-979943,67,M,retiree,retired,53833.94,645,17702.96,34.26,20191.68,12,1,I'm extremely happy with how the pension plan is managed.
+CUST-879514,80,F,retiree,retired,50885.87,626,13653.49,38.76,22918.8,12,0,The branch staff were incredibly patient explaining the new website to me.
+CUST-338926,56,M,professional,Market researcher,120801.47,754,39026.85,42.85,34530.48,36,0,I've had a consistently positive experience with your financial services over the years.
+CUST-723697,51,M,professional,Farm manager,62683.79,681,7810.48,22.33,2911.89,24,0,The communication regarding account updates is clear and concise.
+CUST-286592,60,M,retiree,retired,50928.97,676,11270.12,38.97,11411.31,24,0,Thank you for making the account application process so easy to follow.
+CUST-306974,60,M,retiree,retired,49730.9,651,37675.58,41.77,15156.81,12,0,I feel secure knowing my retirement savings are in good hands.
+CUST-176541,37,F,professional,Careers adviser,54394.67,673,37882.43,50.82,20412.54,24,0,The communication regarding account updates is clear and concise.
+CUST-259981,59,F,professional,Waste management officer,60049.85,762,20583.66,49.71,26638.41,24,0,Personalized attention during my home loan application was invaluable.
+CUST-161971,44,F,professional,"Engineer, land",65458.33,724,15675.9,36.19,17593.59,36,0,The implemented security provides peace of mind during transactions.
+CUST-563637,80,F,retiree,retired,44997.02,758,2473.87,23.8,14288.88,24,0,I am grateful for the dedicated attention to detail in managing my pension.
+CUST-614939,55,F,professional,Early years teacher,71437.44,609,20082.0,60.36,16715.13,12,1,I am concerned about the bank's ethical practices and its impact on the local business community.
+CUST-853300,19,M,young_adult,Intern,8369.99,529,513.35,76.23,2914.73,12,1,Trying to split bills with roommates is a nightmare; the app makes it so complicated.
+CUST-651967,36,M,professional,Manufacturing systems engineer,73628.58,685,7710.26,49.23,28771.09,24,0,The clear and concise communication regarding account updates is much appreciated.
+CUST-535002,80,F,retiree,retired,68851.99,690,20978.71,34.6,37044.45,12,0,The phone support agent was so kind in helping me reset my password.
+CUST-150624,62,M,retiree,retired,49297.92,658,5117.82,42.52,2474.1,12,0,I was very impressed with the efficient service I received at the branch.
+CUST-689810,56,M,professional,"Designer, interior/spatial",56614.18,743,40975.01,16.46,4417.43,60,0,I have only had great things to say about this bank.
+CUST-884974,40,M,professional,Financial risk analyst,98210.36,699,44887.88,81.68,11668.01,12,0,Online finance management has saved me a lot of time and effort.
+CUST-440893,38,M,professional,Warden/ranger,66779.05,690,44737.37,95.75,14243.69,24,0,The implemented security provides peace of mind during transactions.
+CUST-507561,39,F,professional,Medical sales representative,124246.71,603,26669.17,38.25,2037.82,12,0,Professional staff members made me feel comfortable.
+CUST-317074,23,M,young_adult,Part-time Server,17435.58,741,82.23,64.17,6746.64,24,0,The crypto features are cutting-edge!
+CUST-796276,35,F,professional,"Journalist, broadcasting",74118.36,628,28106.04,54.64,8937.46,36,0,The available online resources are comprehensive and informative.
+CUST-193589,47,M,professional,Tourist information centre manager,88878.93,705,44335.9,62.36,28954.43,12,0,Clear and concise communication regarding account status changes.
+CUST-918096,22,F,young_adult,None,13901.74,633,605.66,66.12,7337.18,24,1,Splitting bills is easier using physical cash than this awful app.
+CUST-958469,33,F,professional,Higher education careers adviser,75267.16,659,11348.37,54.3,27555.24,12,0,Modern technology has improved the banking system.
+CUST-844202,68,F,retiree,retired,25325.02,730,1767.43,29.51,7823.22,36,1,The bank's management is out of touch with the needs of ordinary customers.
+CUST-969487,24,F,young_adult,None,22171.4,590,39.36,58.73,9774.99,24,1,I'm worried about the security of my transactions on the crypto platform.
+CUST-963606,68,M,retiree,retired,48862.43,649,11096.69,19.18,5524.54,12,0,The customer support team were friendly and very efficient.
+CUST-352753,62,M,retiree,retired,39182.0,577,1021.99,16.91,12613.3,12,1,The bank makes me feel uncomfortable. It's not welcoming.
+CUST-903023,61,F,retiree,retired,28411.28,696,4515.43,17.1,7923.83,36,0,I appreciate the extra precautions taken to ensure my account's security.
+CUST-738231,27,F,professional,"Accountant, chartered certified",87965.38,640,2636.77,48.8,44761.04,12,0,Security makes me feel like I can be worry-free from theft.
+CUST-390933,60,M,retiree,retired,42671.06,753,11149.41,40.72,21479.46,60,1,The bank's reputation is declining; I'm ashamed to be a customer.
+CUST-106067,20,M,young_adult,Barista,15739.59,615,461.19,61.45,6331.27,24,0,"I appreciate the security features of the app, makes me feel safe."
+CUST-635987,54,M,professional,Education administrator,114168.31,690,32196.1,28.05,22720.58,60,0,The competitive interest rates on savings accounts are attractive.
+CUST-101648,24,F,young_adult,Barista,14829.36,590,827.31,69.82,3430.12,12,0,I am excited by their seamless integration of all financial aspects!
+CUST-311503,59,F,professional,"Engineer, automotive",127032.39,757,77947.12,43.75,57787.13,12,1,My mortgage application was inexplicably rejected despite my excellent credit history and stable income.
+CUST-133606,28,F,professional,"Production assistant, television",74157.38,697,27958.54,61.62,41123.56,36,1,I am worried about the bank's long-term financial stability given recent economic challenges.
+CUST-367860,20,M,young_adult,None,17669.16,574,155.85,63.49,4553.46,60,1,The crypto platform is down more often than it's up. I can't rely on it.
+CUST-685362,59,F,professional,Freight forwarder,116098.57,640,17642.26,38.3,15344.74,36,0,Mortgage options allowed me to finance my business in ease.
+CUST-771455,55,M,professional,Jewellery designer,38071.51,665,4562.16,23.12,20992.69,24,0,The online platform's efficiency has greatly streamlined our business transactions.
+CUST-334438,50,F,professional,Exhibition designer,88521.65,745,16106.76,28.07,13033.86,36,0,Clear and concise communication regarding account status changes.
+CUST-390698,25,M,professional,Multimedia specialist,72789.07,610,7473.4,82.61,19336.54,36,0,Customer service was knowledgeable and quick to address my questions.
+CUST-979596,56,F,professional,Mudlogger,119164.33,672,38389.0,38.83,69545.41,60,1,I value the bank's commitment to ethical and transparent practices.
+CUST-280526,74,M,retiree,retired,43750.45,703,7192.58,17.94,12878.29,60,0,I hate how the bank doesn't listen to what I need. What is going on?
+CUST-438597,28,F,professional,Neurosurgeon,87079.2,613,87437.68,45.87,6648.41,12,0,I have consistently had a positive experience with your financial services.
+CUST-132139,74,M,retiree,retired,53219.37,684,19008.51,18.21,30553.35,36,1,The new branch is not accessible for people with disabilities and seniors.
+CUST-578347,75,F,retiree,retired,35902.64,733,4962.76,40.75,10627.02,12,0,The staff at the local branch are always so kind and accommodating.
+CUST-597235,20,F,young_adult,Barista,11862.78,473,333.76,84.36,5110.25,24,0,I love how quickly I can handle splitting expenses on the app!
+CUST-160511,29,F,professional,"Therapist, drama",74775.05,780,13541.53,69.64,40784.15,12,0,Competitive savings account interest rates make my business so simple.
+CUST-995701,30,F,professional,Nutritional therapist,98647.27,647,63571.77,49.96,16665.01,60,1,The lack of transparency in the account statements makes it difficult to track my expenses effectively.
+CUST-497281,62,M,retiree,retired,57938.9,654,7940.64,24.82,34069.04,60,1,This bank's customer service is not very good. No one listens!
+CUST-734551,77,F,retiree,retired,46198.79,657,1450.97,30.46,24020.48,36,0,Your kind representatives helped me solve my problem quickly.
+CUST-861475,64,M,retiree,retired,33596.67,678,2577.96,23.71,10296.6,36,0,I am happy with the peace of mind knowing my savings are well protected.
+CUST-547499,19,M,young_adult,None,19673.89,637,145.73,48.23,6028.81,24,0,I am happy with fast cash in emergencies!
+CUST-699932,25,M,professional,Mudlogger,105826.8,690,7113.36,63.21,12174.04,60,0,I value the bank's commitment to ethical and transparent practices.
+CUST-717815,25,M,professional,Site engineer,84335.55,682,9323.42,26.47,45623.5,60,1,The high-interest rates make it difficult to manage my mortgage effectively.
+CUST-406536,71,M,retiree,retired,42222.55,745,2955.56,33.9,17349.01,12,1,The bank's lack of transparency is unsettling; I feel like I'm not being told the whole story.
+CUST-679643,25,M,professional,Health physicist,97814.36,782,26966.05,60.96,9373.95,36,0,The online banking interface is user-friendly and allows for effortless financial management.
+CUST-441136,53,M,professional,"Production assistant, television",66802.23,744,40773.41,48.08,8101.14,12,0,Clarity of loan terms and conditions made me trust the process.
+CUST-649430,52,F,professional,Seismic interpreter,55750.71,754,13636.17,47.2,15647.6,12,0,Everyone has done a great job helping prevent fraud!
+CUST-622370,71,M,retiree,retired,39222.74,723,12646.48,41.87,13840.33,36,0,The security measures you have in place give me great peace of mind.
+CUST-791950,28,M,professional,Television/film/video producer,84416.87,736,29645.42,75.65,5835.35,60,0,Prompt customer support is beneficial to everyone in the bank.
+CUST-856024,42,F,professional,Community arts worker,54071.83,720,11861.08,31.79,15191.03,36,0,The bank is committed to making the community a better place.
+CUST-826792,43,M,professional,"Pilot, airline",103975.46,773,24323.02,31.9,38592.61,12,1,"My business account was charged incorrect fees, which took weeks to resolve."
+CUST-324839,79,F,retiree,retired,22785.52,726,749.33,24.34,9794.54,24,0,I love how the branch is so warm and welcoming.
+CUST-772015,19,F,young_adult,None,16476.19,513,49.69,54.22,4391.5,12,1,"My account was hacked, and the bank is not taking it seriously."
+CUST-506573,23,M,young_adult,Student,15122.92,713,203.08,63.81,7803.9,24,0,"The instant cash advances have saved me more than once, seriously life-saving."
+CUST-593689,69,F,retiree,retired,38108.75,812,2670.11,28.16,17448.22,60,1,The bank's location is inconvenient. What a trouble.
+CUST-505749,26,M,professional,Chartered certified accountant,71768.41,775,51028.16,62.95,10757.56,12,0,I value the bank's commitment to ethical business practices.
+CUST-392634,21,F,young_adult,Part-time Server,15349.85,604,57.18,78.12,7733.76,60,1,I'm impressed with how they help younger demographics!
+CUST-883951,40,M,professional,"Pharmacist, hospital",109860.87,780,20167.33,46.61,3224.02,24,0,Your mortgage options provided me with the flexibility I needed for my new home purchase.
+CUST-185260,46,F,professional,Commercial art gallery manager,110801.42,714,13238.99,27.64,61997.94,60,0,The bank's proactive approach to fraud prevention is highly reassuring.
+CUST-321098,56,M,professional,Electrical engineer,74722.88,750,28130.31,72.25,20924.4,36,1,The bank's underwriting process for commercial loans is overly conservative and restrictive.
+CUST-997688,67,M,retiree,retired,45752.06,709,11979.04,33.75,19668.84,36,1,I'm so angry that my call wasn't returned; I've been waiting three days; what about my query?
+CUST-436459,21,M,young_adult,Intern,13195.11,751,133.64,82.01,4624.75,24,0,"Opening an account was incredibly simple and straightforward, no issues."
+CUST-453327,45,M,professional,"Exhibitions officer, museum/gallery",40093.94,637,4969.97,51.94,9123.31,24,0,The security measures in place provide peace of mind during transactions.
+CUST-735336,52,F,professional,English as a second language teacher,33955.4,689,10151.64,74.7,19241.01,24,0,The bank's proactive approach to fraud prevention is highly reassuring.
+CUST-872089,53,M,professional,Aeronautical engineer,44376.42,745,23779.29,67.54,26479.47,36,1,"The bank's website is difficult to navigate, making it hard to find relevant information quickly."
+CUST-874351,69,M,retiree,retired,64176.76,725,24157.73,34.89,22376.04,60,0,The security measures give me great confidence in your services.
+CUST-816018,32,M,professional,Cartographer,82210.86,797,31983.27,51.27,44835.3,60,1,"I am concerned about the data security protocols in place, especially regarding sensitive financial information."
+CUST-932097,63,M,retiree,retired,37000.09,703,11296.82,40.48,5699.4,12,0,I appreciate the extra precautions taken to ensure my account's security.
+CUST-127666,44,F,professional,Marine scientist,109301.8,642,11321.18,76.87,20151.9,24,0,The range of financial products is exactly what I need for investing.
+CUST-284478,27,M,professional,Systems analyst,60386.08,673,19813.41,57.63,12584.05,60,1,I experienced difficulty accessing my account online due to technical issues.
+CUST-186097,50,M,professional,Local government officer,97277.34,689,43228.59,41.13,52901.93,12,0,I am happy to choose this bank to do my banking.
+CUST-563935,23,F,young_adult,Intern,16641.79,518,370.94,71.54,9460.99,12,1,This bank’s mobile app makes loans simple!
+CUST-160331,25,F,professional,Diagnostic radiographer,125565.19,739,21059.12,21.51,57619.12,24,0,The bank's commitment to innovation is evident in its advanced technological offerings.
+CUST-924365,65,F,retiree,retired,45632.66,633,7995.36,26.82,25622.19,36,0,I was very impressed with the efficient service I received at the branch.
+CUST-441939,53,M,professional,Amenity horticulturist,50096.98,664,13946.85,36.87,20075.77,36,0,Setting up my business accounts has been smooth.
+CUST-570577,71,F,retiree,retired,39900.86,702,2799.18,27.22,2553.52,24,0,Your team's attention to safeguarding my funds gives me assurance.
+CUST-892033,70,M,retiree,retired,43448.18,701,1072.13,31.64,17963.25,12,0,The customer service representatives are knowledgeable and polite.
+CUST-381261,68,M,retiree,retired,53833.61,600,14793.3,35.36,25983.57,36,1,This bank never listens and the charges are too high! I've been a customer for a long time.
+CUST-786663,18,M,young_adult,Intern,19475.03,746,59.01,64.88,6371.69,12,1,I can't find anything in this app!
+CUST-491833,32,F,professional,Senior tax professional/tax inspector,85479.66,808,46308.92,53.51,41226.36,24,0,The app made it easy to see my profits and losses.
+CUST-541149,70,M,retiree,retired,48092.83,614,7599.28,33.53,28717.85,24,1,I loathe this bank. I'm closing my account.
+CUST-130349,70,F,retiree,retired,34655.64,637,10830.71,47.28,18057.5,12,1,I'm worried about the safety of my pension information online; it's just so confusing.
+CUST-371034,51,M,professional,Marketing executive,97300.07,750,7336.55,61.01,41526.88,60,1,The bank's website is difficult to navigate and lacks clear information about business services.
+CUST-857503,80,M,retiree,retired,51795.65,733,19649.16,28.51,5001.62,24,1,The bank's customer service is unhelpful. What a hassle.
+CUST-543763,21,F,young_adult,Part-time Server,14285.91,696,360.94,55.6,8285.09,60,0,I am happy to have found an app with a great UI!
+CUST-995705,37,M,professional,Retail banker,87002.86,716,9998.61,37.37,40247.79,12,0,I've been consistently impressed with the banking staff's professionalism.
+CUST-617518,74,M,retiree,retired,39864.09,624,17252.94,39.62,12022.26,24,0,I'm delighted with how simple it is to get my pension details.
+CUST-234927,45,M,professional,Investment analyst,94554.96,694,60924.6,52.9,8358.91,60,0,The reliable international funds help me focus on business.
+CUST-368464,37,M,professional,Retail buyer,76848.13,790,1718.68,47.02,11179.16,12,0,I have many options in terms of managing my funds.
+CUST-876977,20,M,young_adult,Student,22350.4,558,271.36,58.93,10145.16,24,1,Love the integration with my other financial apps!
+CUST-968276,23,M,young_adult,Student,21150.98,597,34.78,61.98,2918.31,60,0,I am thrilled with the bank’s online banking features and design!
+CUST-968925,30,M,professional,Diplomatic Services operational officer,66936.35,696,22330.68,54.5,10937.2,60,0,I've been consistently impressed with the professionalism of the banking staff.
+CUST-669557,61,F,retiree,retired,41054.35,668,18051.5,12.52,5464.42,12,0,I am very glad to have my account with this bank for my retirement.
+CUST-636107,60,M,retiree,retired,38461.41,645,16117.49,21.76,19710.76,36,1,This bank always makes things difficult. Why can't things be simpler?
+CUST-695485,51,M,professional,English as a foreign language teacher,48658.45,713,3172.87,61.09,18995.22,24,0,Proactive notifications regarding my account activity are greatly appreciated.
+CUST-405662,33,F,professional,Health promotion specialist,102665.1,771,42991.24,22.9,9324.95,24,0,It's so easy to be a customer because of these great options.
+CUST-609950,75,M,retiree,retired,50810.52,672,5396.33,23.55,8306.01,12,0,The staff always provide excellent service in my branch.
+CUST-908763,30,M,professional,Public librarian,64930.13,774,23853.98,33.71,26373.43,60,1,I am happy to choose this bank to do my banking.
+CUST-108285,45,M,professional,"Journalist, magazine",114167.28,752,4873.25,31.53,52807.78,60,0,I am impressed with the bank's proactive approach to preventing fraud.
+CUST-499647,68,F,retiree,retired,48902.06,692,2902.85,22.99,7715.82,24,0,Knowing my retirement funds are safe gives me true peace of mind.
+CUST-850749,56,F,professional,Dancer,82217.16,614,12859.09,69.36,34134.71,60,1,The fees charged for processing ACH transactions are higher than those of competitors.
+CUST-119506,32,F,professional,Games developer,69589.98,701,20227.99,54.06,17013.99,12,0,I value the personalized financial advice I received from the bank's advisors.
+CUST-496221,42,F,professional,Building control surveyor,107094.79,762,12975.27,27.04,6466.22,24,0,The bank is not unethical and cares about its customers.
+CUST-729194,50,F,professional,Communications engineer,67709.81,697,29699.88,50.44,37118.72,36,1,The bank's failure to address my complaints has left me feeling ignored and disrespected.
+CUST-758641,50,M,professional,"Scientist, research (maths)",89979.13,771,51318.06,57.22,16959.88,60,0,The efficiency of the online application process for loans was impressive.
+CUST-681401,73,F,retiree,retired,44518.39,658,615.03,32.87,21809.08,24,1,The bank's social responsibility is lacking; they should be supporting important causes.
+CUST-612739,18,M,young_adult,Part-time Server,21861.93,713,21.98,51.93,10024.32,36,0,The app's user interface is confusing and unintuitive for splitting bills.
+CUST-570109,19,M,young_adult,Intern,8356.05,474,111.01,70.91,4497.15,36,0,I've had a stellar experience with the bank’s mobile application!
+CUST-119748,37,F,professional,Occupational psychologist,67039.99,719,42866.29,60.8,31883.07,12,0,"The bank's interest rates for commercial mortgages are not competitive, hindering my business growth."
+CUST-681941,62,F,retiree,retired,54174.26,630,349.57,16.47,27896.87,12,1,The bank keeps sending me confusing emails; I can't understand what they want from me.
+CUST-334139,71,M,retiree,retired,36870.44,667,2702.95,28.76,17633.78,60,0,I appreciate the friendly and helpful service I always receive at the branch.
+CUST-628263,26,F,professional,Barrister,104998.17,703,3172.54,32.44,3682.17,12,0,The variety of investment options suits my financial goals perfectly.
+CUST-165261,76,M,retiree,retired,47102.51,617,18516.18,23.78,15280.44,60,0,The bank staff were great at helping me reset my login credentials.
+CUST-153260,29,M,professional,"Designer, furniture",85149.3,690,30277.61,64.76,33181.7,24,0,Many great products exist that satisfy my needs.
+CUST-770485,74,M,retiree,retired,48830.08,602,1030.67,29.21,23308.22,24,0,The quick response time to my password issues was a huge help.
+CUST-826873,53,M,professional,Advertising account planner,52559.03,728,36636.64,38.53,27516.12,60,0,I value the bank's commitment to ethical and transparent business practices.
+CUST-392382,54,M,professional,"Engineer, drilling",133226.06,850,17685.92,57.77,43383.68,12,0,"The bank's website is difficult to navigate, making it hard to find relevant information quickly."
+CUST-526126,23,F,young_adult,Part-time Server,16943.86,582,103.22,79.96,6127.53,24,1,"I can't find fast cash anywhere, this bank won't help!"
+CUST-428477,21,F,young_adult,Student,12209.43,557,65.55,73.81,7069.7,24,1,The bank's security protocols are cumbersome and frustrating to navigate.
+CUST-456149,20,M,young_adult,Barista,20518.02,709,139.61,87.4,3051.71,36,0,I am excited to integrate finances!
+CUST-917498,76,F,retiree,retired,42854.83,739,41197.0,29.8,20318.24,24,0,I appreciate the effort that has gone into making things secure.
+CUST-774694,60,F,retiree,retired,45586.25,690,23688.68,33.39,11570.36,36,1,"My local branch closed, and the next one is too far away; I can't get there easily."
+CUST-184626,60,M,retiree,retired,50000.07,751,5380.64,31.7,3427.21,36,0,I was so pleased with the help I received setting up my pension account.
+CUST-998972,40,F,professional,Special educational needs teacher,77574.88,707,23427.77,25.0,7080.13,36,0,I appreciate the proactive updates and notifications regarding my account activity.
+CUST-973943,33,M,professional,Farm manager,62620.76,710,12783.88,44.86,22458.13,24,0,Personalized attention during my home loan application was invaluable.
+CUST-670512,40,F,professional,Advertising art director,58857.13,666,15282.51,49.55,33375.3,12,0,The bank is committed to making the community a better place.
+CUST-969927,22,M,young_adult,Barista,19179.15,449,646.0,75.38,9680.14,24,1,"I needed access to fast cash, but the bank dragged its feet and denied me."
+CUST-468426,69,M,retiree,retired,50082.66,710,15619.59,19.23,8444.62,12,0,I am really happy with the personal attention I receive from my bank.
+CUST-521975,22,M,young_adult,Intern,10225.71,742,244.01,50.69,3760.29,36,0,The app logs me out frequently.
+CUST-946122,56,F,professional,Environmental health practitioner,113778.85,703,11697.13,46.03,65094.72,12,0,I am grateful for the personalized attention I received during my home loan application.
+CUST-900948,63,F,retiree,retired,46333.49,817,16244.21,31.29,20567.7,60,0,The instructions for the new card were written in jargon I couldn't understand
+CUST-576413,30,F,professional,Neurosurgeon,71306.36,645,6657.33,84.73,13485.13,24,1,The bank's fee structure for business overdraft protection is punitive and excessive.
+CUST-730667,66,M,retiree,retired,39428.36,699,995.69,33.32,23148.68,12,0,"It's great to know that you have my finances under control, thank you."
+CUST-381579,49,M,professional,Barista,78086.94,723,34773.63,56.98,17308.28,36,0,My experience using the financial services is consistenly excellent.
+CUST-264509,35,M,professional,Photographer,83096.87,760,4026.25,39.64,45009.52,36,1,The information provided by different customer service representatives was inconsistent.
+CUST-465172,75,M,retiree,retired,49350.71,616,8028.05,30.88,29429.24,60,1,The support agent on the phone cut the line to avoid dealing with me!
+CUST-488507,58,M,professional,"Journalist, magazine",105234.88,779,15042.52,23.83,24425.37,60,0,Mortgage options allowed me to finance my business in ease.
+CUST-207672,72,F,retiree,retired,44655.9,672,1185.21,32.33,17154.53,36,0,The staff always go the extra mile in the local branch; it’s heartening.
+CUST-857514,71,M,retiree,retired,48778.47,764,7508.26,48.92,3088.19,24,0,Thank you for a great experience at the branch this morning.
+CUST-418748,19,F,young_adult,None,13290.11,571,222.31,68.24,2881.04,36,0,Impressed with the features for young professionals!
+CUST-401533,26,M,professional,Food technologist,77461.43,688,14007.65,67.6,38912.8,12,0,The range of investment options is well-suited to my financial objectives.
+CUST-157409,41,M,professional,Landscape architect,78453.93,612,24865.29,81.46,15679.36,12,0,The clear and concise communication regarding account updates is much appreciated.
+CUST-127559,42,F,professional,"Conservation officer, historic buildings",45127.05,723,8228.1,65.94,23034.43,24,0,Online management is as easy as sitting at my desk.
+CUST-985462,45,F,professional,"Scientist, research (maths)",104495.89,697,8314.84,36.74,14654.36,24,0,The staff here knows what they're doing and are professionals.
+CUST-359478,36,M,professional,Academic librarian,97532.86,751,50108.98,54.2,9058.78,36,0,The bank is committed to making the community a better place.
+CUST-863300,20,M,young_adult,Student,11260.65,514,242.72,63.15,4993.66,24,1,I can't find anything in this app!
+CUST-859806,37,M,professional,"Scientist, research (maths)",116056.0,764,127829.62,59.39,12829.48,60,0,The clear and concise communication regarding account updates is very helpful.
+CUST-724130,58,F,professional,"Editor, film/video",93101.68,691,22496.52,49.47,6234.85,36,0,I have been consistently impressed with the professionalism of the banking staff.
+CUST-606889,53,F,professional,"Nurse, mental health",104418.3,771,10125.99,76.53,13673.4,24,0,The online banking interface is user-friendly and allows for effortless financial management.
+CUST-320719,53,F,professional,"Engineer, technical sales",126581.62,702,84368.48,58.87,3384.89,12,0,This bank is the best in terms of fraud prevention.
+CUST-103207,32,M,professional,Passenger transport manager,72483.85,759,18603.56,62.7,18749.99,12,0,The competitive interest rates on savings accounts are a definite draw.
+CUST-416957,30,M,professional,Fisheries officer,83736.04,671,34363.23,67.81,28207.02,36,0,The staff has been helpful and has not been invasive.
+CUST-458500,79,M,retiree,retired,48884.14,656,3460.73,24.0,18196.84,12,0,Thank you for helping me keep my account information secure.
+CUST-602657,77,M,retiree,retired,41797.26,612,1179.03,18.98,15990.35,12,0,I appreciate the attention to detail with my pension account.
+CUST-574313,42,M,professional,Adult guidance worker,64315.38,815,14328.21,44.55,15262.2,60,0,Buying a house has become so much easier with your assistance.
+CUST-461287,53,F,professional,"Engineer, manufacturing",104400.47,720,32189.95,44.04,34117.89,60,1,My attempt to refinance my commercial mortgage was rejected despite favorable market conditions.
+CUST-517039,18,F,young_adult,Barista,17730.03,589,626.37,74.92,6804.46,60,1,Splitting bills shouldn't be this difficult! The app needs a serious update.
+CUST-603762,37,F,professional,Materials engineer,42415.59,792,49217.95,47.08,11435.93,24,0,Customer service was knowledgeable and quick to address my questions.
+CUST-462662,69,M,retiree,retired,40042.78,789,15263.91,19.7,17283.03,24,0,Thank you for a great experience at the branch this morning.
+CUST-819804,46,M,professional,International aid/development worker,116937.09,679,6477.77,47.54,45065.12,60,0,Many great products exist that satisfy my needs.
+CUST-142926,44,F,professional,Event organiser,86265.67,730,8662.65,36.56,26904.44,12,0,My experience with your financial services has been consistently positive.
+CUST-235090,78,M,retiree,retired,39158.64,737,15120.11,23.17,12205.04,36,0,The new security measures definitely make me feel safer with my finances.
+CUST-403254,66,F,retiree,retired,45779.54,728,19292.56,38.28,11817.43,36,0,I feel reassured knowing that my money is in safe hands with you.
+CUST-618276,25,F,professional,Chiropodist,97390.69,706,3526.82,38.19,27048.7,12,0,I've been consistently impressed with the professionalism of the banking staff.
+CUST-272697,21,F,young_adult,Student,9396.87,595,39.29,83.37,5513.16,60,0,I've had a great experience with the mobile app!
+CUST-244418,22,M,young_adult,Student,13280.1,531,122.58,71.49,3901.14,24,0,The bank seems genuinely invested in helping young adults build credit.
+CUST-548184,37,F,professional,Chief Operating Officer,135540.96,635,24645.37,51.83,67474.0,60,0,"The bank's communication regarding policy changes is inadequate, leaving me feeling uninformed and unprepared."
+CUST-652654,61,M,retiree,retired,55866.91,554,19111.51,31.27,31551.4,12,1,"I'm not tech-savvy; I need assistance with my account, but I'm afraid to ask; it's embarrassing."
+CUST-402224,67,M,retiree,retired,55518.79,748,11215.38,36.5,28313.31,36,1,The bank should have better accessibility options for those hard of seeing.
+CUST-885231,65,M,retiree,retired,43873.45,709,5145.31,23.96,9498.37,60,0,"Your helpful customer service is a great comfort, thank you."
+CUST-128576,32,F,professional,Geophysicist/field seismologist,83420.71,799,43371.77,28.62,13968.15,36,0,The responsiveness of the customer support team is truly commendable.
+CUST-333330,40,M,professional,Analytical chemist,101764.98,817,54123.58,39.26,5738.08,24,0,Loan applications were very simple to understand.
+CUST-909103,38,M,professional,Medical physicist,122486.17,667,3447.48,59.89,70506.53,60,1,Customer service was knowledgeable and quick to address my questions.
+CUST-468766,69,M,retiree,retired,47842.27,734,14636.11,26.97,13855.75,24,0,I feel very safe knowing my money is in such a trustworthy institution.
+CUST-625525,44,M,professional,Technical author,78685.75,762,46433.47,47.08,12964.49,60,0,The ease of setting up and managing business accounts has been a significant benefit.
+CUST-525831,29,F,professional,Agricultural engineer,63320.73,660,7862.32,39.75,24213.9,36,0,Personalized financial advice has been invaluable to my investment strategy.
+CUST-777074,53,F,professional,Nutritional therapist,70153.31,626,42902.45,50.09,5638.57,12,0,The bank's community involvement is something I truly admire.
+CUST-769970,20,M,young_adult,None,5882.8,578,69.0,54.26,3308.28,60,1,I can't believe they rejected my application for a small personal loan.
+CUST-537889,63,F,retiree,retired,52073.06,637,1379.03,28.49,23335.43,24,1,The bank's reputation is declining; I'm ashamed to be a customer.
+CUST-328661,35,F,professional,Trading standards officer,102355.29,653,16411.96,38.95,46062.39,36,1,The bank's interest rates are not competitive for commercial real estate mortgages.
+CUST-906072,23,M,young_adult,Barista,23900.98,509,31.19,66.27,12350.53,24,1,"I tried to buy crypto, but the transaction failed multiple times. I'm losing patience."
+CUST-152294,41,M,professional,Warehouse manager,69996.78,739,4696.89,67.26,2598.89,24,1,I am concerned about the bank's compliance with regulatory requirements and data privacy laws.
+CUST-933249,51,F,professional,Scientific laboratory technician,9789.78,663,1667.88,37.71,4299.61,12,1,The prompt and efficient resolution of my inquiries is greatly appreciated.
+CUST-293794,23,F,young_adult,Intern,22818.3,584,650.39,77.1,6108.95,60,0,Quickest mobile banking!
+CUST-346908,29,F,professional,"Scientist, research (medical)",83054.38,656,22033.3,50.59,47820.0,36,0,The range of investment options is well-suited to my financial objectives.
+CUST-976278,61,F,retiree,retired,38227.26,755,1150.5,12.05,4746.07,24,0,I’m grateful for the clear explanation of the services you provide.
+CUST-809868,78,F,retiree,retired,44208.1,747,6427.39,52.4,20973.41,12,0,The bank's fees are very high. It's quite frustrating.
+CUST-113114,49,F,professional,Research scientist (maths),80853.42,796,19941.08,41.94,22138.03,36,0,The online loan application process was efficient and easy to complete.
+CUST-620659,28,F,professional,Ecologist,90899.35,737,58992.86,65.27,12467.26,36,0,The mortgage options available were tailored to my specific financial situation.
+CUST-197177,55,F,professional,Immigration officer,84588.8,679,23120.92,50.1,28119.34,24,0,High interest rates and benefits are a huge reason to be with the bank.
+CUST-636782,37,M,professional,Pharmacologist,74563.9,738,16056.5,40.99,39172.56,12,0,The app made it easy to see my profits and losses.
+CUST-216821,65,M,retiree,retired,23125.54,649,1680.16,5.78,10520.15,36,1,I'm concerned about identity theft; the new security measures seem overly complicated.
+CUST-454261,76,F,retiree,retired,37430.39,671,2357.09,18.17,14819.2,24,0,The customer support agents are always willing to go the extra mile.
+CUST-349136,56,F,professional,"Engineer, production",92507.5,772,14629.53,57.74,16576.37,36,1,"The wire transfer fees are excessively high, making it impractical to conduct international business transactions."
+CUST-815533,64,F,retiree,retired,32737.97,716,20269.49,40.6,8270.9,60,0,I am always happy with the professional care I receive.
+CUST-619840,59,F,professional,Sports coach,62449.23,720,9857.68,37.14,29779.15,36,0,I appreciate the proactive notifications regarding my account activity.
+CUST-826839,43,F,professional,Water quality scientist,106563.81,721,19544.32,40.57,61228.58,12,0,I value the bank's commitment to ethical and transparent business practices.
+CUST-558215,48,F,professional,Sports coach,84441.41,734,46393.8,50.46,15512.13,12,1,The bank's communication regarding important account updates is often delayed or unclear.
+CUST-627072,20,M,young_adult,Part-time Server,9732.41,605,44.4,55.28,5440.29,24,0,The streamlined experience of the application is outstanding!
+CUST-332007,72,F,retiree,retired,26396.54,641,1801.89,30.45,6915.66,36,0,It means a lot knowing my funds are managed with care.
+CUST-836347,28,M,professional,Advertising account planner,111966.98,790,5151.65,55.38,50750.14,24,0,I am frustrated with the lack of flexibility in customizing banking services for my business.
+CUST-850783,48,F,professional,Occupational hygienist,104041.61,631,19254.16,32.15,61487.12,12,1,Customer service representatives are often difficult to reach and provide inadequate support.
+CUST-436305,43,F,professional,Charity officer,89851.94,636,13032.2,45.62,40841.1,12,1,"The bank's fee structure for business accounts is unclear and lacks transparency, causing unexpected charges."
+CUST-898355,48,M,professional,Retail buyer,89816.24,722,7897.69,67.93,50385.47,24,0,The range of financial products is exactly what I need for investing.
+CUST-533129,66,M,retiree,retired,29620.46,625,3566.28,20.94,7093.14,60,0,The staff at my local branch are friendly and always ready to help.
+CUST-825545,73,F,retiree,retired,42803.93,699,4750.08,20.96,16720.86,60,0,The staff always provide excellent service in my branch.
+CUST-456299,27,F,professional,Hotel manager,87373.79,727,25110.65,68.76,7380.26,60,0,The clarity of the loan terms and conditions was appreciated.
+CUST-187865,42,M,professional,"Pilot, airline",114167.47,644,59030.31,23.49,13196.02,12,1,I am questioning the bank's commitment to providing excellent service to its business customers.
+CUST-625783,68,M,retiree,retired,34229.59,718,15622.27,35.11,18404.77,36,1,"This new bank card is confusing, and the instructions are not clear; what am I supposed to do?"
+CUST-762887,67,F,retiree,retired,39772.07,678,4666.17,26.76,7170.99,60,0,"It’s nice to know my pension is in safe hands, thank you."
+CUST-187499,63,F,retiree,retired,43075.83,717,1002.03,36.24,11946.18,24,0,This bank should do better and care more for older customers like me.
+CUST-168287,34,M,professional,Volunteer coordinator,87966.23,721,27957.2,46.47,4796.25,24,1,Setting up multiple user access for my employees proved to be a complicated process.
+CUST-183607,43,M,professional,"Librarian, public",97460.77,702,3513.05,87.95,49191.15,36,0,Personalized attention during my home loan application was invaluable.
+CUST-729343,28,M,professional,"Administrator, arts",100647.53,715,16614.84,49.28,41394.7,12,0,Buying a house has become so much easier with your assistance.
+CUST-165647,71,F,retiree,retired,53230.49,658,4976.32,29.07,29093.28,24,0,The customer service representatives were kind and well-informed.
+CUST-798202,23,M,young_adult,Barista,19258.13,687,333.0,55.66,6085.77,36,0,The budgeting tools in the app are helping me actually save money!
+CUST-350117,57,M,professional,Recruitment consultant,109371.22,782,30652.69,53.91,34894.46,24,0,The bank's policies regarding currency exchange rates are unfavorable and disadvantageous.
+CUST-929343,54,M,professional,Midwife,53451.7,791,17351.79,54.43,19045.83,36,0,The bank's mobile deposit feature is frequently unavailable due to technical issues.
+CUST-835289,54,F,professional,Senior tax professional/tax inspector,108390.8,690,64254.13,21.22,4775.41,60,0,The reporting tools provided by the bank are inadequate for tracking business performance.
+CUST-930556,34,F,professional,Town planner,73659.44,617,19078.62,71.16,15405.78,12,0,The online banking interface is user-friendly and allows for effortless financial management.
+CUST-826528,25,M,professional,Actuary,70338.73,741,26506.51,33.68,32901.37,12,1,The bank's fee structure for business overdraft protection is punitive and excessive.
+CUST-217412,73,M,retiree,retired,57628.54,760,5289.52,7.31,20085.33,24,1,I feel left behind by the bank; they're not catering to older customers anymore.
+CUST-420920,45,F,professional,Bonds trader,97825.42,659,32142.12,47.71,19300.38,12,0,Buying a house has become so much easier with your assistance.
+CUST-558075,43,M,professional,Senior tax professional/tax inspector,94787.07,686,7967.2,47.72,22324.4,24,0,I was denied a loan modification despite demonstrating financial hardship.
+CUST-220018,40,F,professional,Pension scheme manager,88702.19,736,33919.02,58.77,49590.59,24,1,The fees for international wire transfers are excessively high and unreasonable.
+CUST-186051,27,F,professional,"Loss adjuster, chartered",73859.71,711,22929.3,61.29,28531.87,24,0,I commend the bank's commitment to providing excellent customer service.
+CUST-403215,75,M,retiree,retired,52525.19,713,3062.87,26.89,20558.19,60,0,I was so thankful for the help with the online portal.
+CUST-710711,74,F,retiree,retired,55049.77,738,1914.72,24.0,12979.91,12,0,"The new password requirements keep my finances safe and secure, right?"
+CUST-372814,70,F,retiree,retired,33569.39,740,1979.08,10.08,19084.6,60,0,The telephone support agent was extremely pleasant and helpful.
+CUST-485123,59,F,professional,Theme park manager,72991.57,645,5038.48,82.84,39538.99,24,1,I am highly disappointed with the lack of proactive support for my business's financial goals.
+CUST-166239,65,M,retiree,retired,45556.16,742,4209.02,46.37,10702.39,12,0,Thank you for taking the time to help explain the interest rates.
+CUST-612228,59,M,professional,Recruitment consultant,86305.01,703,75727.43,71.71,30086.66,36,0,I am impressed with the bank's proactive fraud prevention measures.
+CUST-957796,64,F,retiree,retired,55917.7,679,3736.46,46.99,4313.04,24,0,The phone support agent was incredibly patient with me and my queries.
+CUST-297489,34,F,professional,Psychiatrist,64257.39,734,56321.01,61.75,20679.69,36,0,Competitive interest rates on business savings are a great benefit.
+CUST-962480,53,F,professional,Chiropodist,55820.54,786,14478.96,59.01,14947.64,60,0,The bank's dedication to community involvement is commendable.
+CUST-583140,41,M,professional,Office manager,118024.12,731,14747.65,64.68,38717.8,12,0,The clear and concise communication regarding account updates is much appreciated.
+CUST-444667,34,M,professional,Education administrator,82492.84,738,50837.37,14.41,30051.97,60,0,The bank's fees for international money transfers are prohibitively expensive.
+CUST-734605,55,F,professional,Charity officer,63921.44,666,18240.71,73.52,20074.84,24,0,Saving money on savings accounts can help so much!
+CUST-539071,45,F,professional,Occupational psychologist,88967.51,649,35515.88,58.65,44436.35,36,1,The lack of support for small business clients is disappointing; I feel like just another number.
+CUST-170903,56,F,professional,"Scientist, biomedical",105331.14,662,7321.05,56.55,49347.37,12,0,The efficiency of the online application process for loans was impressive.
+CUST-981317,33,F,professional,Claims inspector/assessor,98444.65,704,66136.52,49.14,40128.89,60,0,Clear and concise communication regarding account status changes.
+CUST-155763,50,M,professional,Therapeutic radiographer,99876.26,640,18210.38,49.5,37699.66,36,1,Setting up multiple user access for my employees proved to be a complicated process.
+CUST-717297,52,M,professional,Chief Marketing Officer,103009.86,639,21130.04,47.54,15636.68,12,0,My request for a business line of credit was denied without a clear explanation or justifiable reasoning.
+CUST-733725,71,M,retiree,retired,36967.88,650,13877.14,42.93,17430.07,24,1,The team went above and beyond to answer my questions regarding my account.
+CUST-854569,62,F,retiree,retired,66103.72,610,15456.7,26.39,18364.47,12,0,Your kind representatives helped me solve my problem quickly.
+CUST-552056,18,F,young_adult,None,23097.56,517,51.97,62.21,2752.98,24,1,The bank declined my transaction when I had plenty of money!
+CUST-834498,56,F,professional,"Scientist, clinical (histocompatibility and immunogenetics)",92291.44,682,22491.38,45.04,37560.71,36,0,Innovation has significantly improved my overall banking experience.
+CUST-883439,76,M,retiree,retired,36498.24,672,7854.75,28.29,18549.99,24,0,Your team's attention to safeguarding my funds gives me assurance.
+CUST-723990,19,F,young_adult,Intern,17504.97,655,577.01,79.43,8282.56,60,0,"I needed fast cash, but the loan application process was incredibly lengthy."
+CUST-392798,59,F,professional,Analytical chemist,93340.12,747,43071.09,58.92,41342.77,60,0,The online loan application process was efficient and easy to complete.
+CUST-610080,51,M,professional,"Scientist, physiological",45382.77,751,23396.09,34.02,6426.51,36,0,Online management is as easy as sitting at my desk.
+CUST-694199,50,F,professional,"Teacher, adult education",131814.7,758,65759.7,49.18,27037.0,24,0,Security helped make sure my employees were not scammed.
+CUST-753975,38,F,professional,Fast food restaurant manager,64166.44,666,12087.65,68.21,20719.19,36,0,The prompt and efficient resolution of my inquiries is greatly appreciated.
+CUST-320423,43,M,professional,"Scientist, forensic",82773.38,804,31219.47,47.08,27521.61,60,1,My mortgage application was inexplicably rejected despite my excellent credit history and stable income.
+CUST-472992,41,F,professional,Music therapist,116998.15,683,76336.01,39.43,5992.25,36,0,Customer service was knowledgeable and quick to address my questions.
+CUST-270260,62,F,retiree,retired,44008.07,608,2959.76,19.76,12602.15,60,1,I keep getting scam emails pretending to be from the bank; it's very alarming.
+CUST-204461,32,F,professional,"Scientist, clinical (histocompatibility and immunogenetics)",47195.58,779,7688.03,63.75,6453.86,12,0,Clear and concise communication regarding account status changes.
+CUST-818393,40,M,professional,Community development worker,108653.24,696,71323.44,27.6,3113.21,12,0,The variety of financial products offered meets my diverse investment requirements.
+CUST-627827,48,F,professional,Special effects artist,81751.9,745,4862.15,32.54,11078.77,36,0,The diverse range of financial products offered meets my investment needs.
+CUST-778727,36,M,professional,Quarry manager,116791.63,612,37782.13,44.39,63971.56,12,1,I was subjected to excessive questioning and scrutiny when attempting to open a new business account.
+CUST-799928,22,F,young_adult,Barista,13285.71,724,167.39,59.82,3800.76,24,0,I am very pleased with the support on the app!
+CUST-297039,69,F,retiree,retired,47851.22,750,8927.81,21.54,26887.95,12,0,"The staff are always polite and attentive; it’s comforting, really."
+CUST-640376,28,F,professional,"Copywriter, advertising",138562.38,767,18802.79,56.2,22542.58,36,0,The international wire transfer service is efficient and reliable for my business needs.
+CUST-357828,55,F,professional,"Psychologist, clinical",79044.28,686,16254.06,58.9,31273.04,60,0,Bank notifications made sure no one stole my identity.
+CUST-543016,45,F,professional,Sport and exercise psychologist,128069.18,691,12496.64,20.21,68383.9,36,0,The reliable international funds help me focus on business.
+CUST-503480,48,M,professional,Midwife,98271.98,698,14983.64,52.99,7486.18,36,0,Managing my finances online has saved me significant time and effort.
+CUST-960383,62,F,retiree,retired,61563.42,725,32191.08,41.15,25230.14,36,0,The staff went out of their way to help me with my pension.
+CUST-355721,72,M,retiree,retired,32971.73,849,5799.45,52.66,5360.12,60,0,I am very happy with the kind and supportive staff at the branch.
+CUST-854483,29,F,professional,"Nurse, adult",127704.08,717,29758.98,39.18,54197.39,36,0,My business is now easier than ever to manage with these banks.
+CUST-363584,72,M,retiree,retired,45640.36,679,14062.34,28.69,5772.96,12,1,The bank's fees are very high. It's quite frustrating.
+CUST-235597,75,F,retiree,retired,21427.37,741,2944.83,34.1,10479.24,36,1,The new branch is not accessible for people with disabilities and seniors.
+CUST-362821,77,M,retiree,retired,49513.79,697,17219.01,40.96,19710.71,24,0,The customer service representative was very helpful and understanding.
+CUST-546770,57,M,professional,"Engineer, mining",104220.95,805,22729.11,31.46,4051.89,24,0,I appreciate the competitive interest rates on business savings accounts.
+CUST-830681,41,F,professional,Risk manager,93529.49,709,32171.68,55.02,34518.3,60,0,The online resources available are comprehensive and informative.
+CUST-463179,36,F,professional,"Scientist, research (maths)",81111.11,636,5120.73,25.1,13608.17,24,0,The various options made banking easy and reliable.
+CUST-403356,69,F,retiree,retired,46803.66,648,5241.69,34.01,22136.61,12,1,The bank's fees are too high. It's frustrating.
+CUST-415965,38,F,professional,TEFL teacher,45549.07,701,8329.57,47.68,23079.55,36,0,Bank notifications made sure no one stole my identity.
+CUST-475521,20,F,young_adult,Intern,19531.56,553,222.26,75.02,10940.22,60,1,Mobile banking is smooth and quick!
+CUST-690046,77,M,retiree,retired,32324.24,738,28699.08,28.06,13526.42,60,0,I really appreciate the time spent to explain my account details.
+CUST-149605,62,M,retiree,retired,48619.61,599,8014.22,25.99,24679.14,12,0,"I feel my money is safe with you, and that gives me great peace of mind."
+CUST-674942,73,F,retiree,retired,67684.96,629,2113.94,40.4,21217.37,36,0,The bank is not doing enough to protect its customers from fraud.
+CUST-167334,78,F,retiree,retired,44759.79,541,14326.43,41.37,14728.24,12,1,They don't understand that I am old and that it is not easy to use the technology.
+CUST-658073,76,M,retiree,retired,48029.42,678,29017.25,12.42,2484.34,12,1,I loathe this bank. I'm closing my account.
+CUST-680569,65,M,retiree,retired,33485.9,661,7770.57,21.71,5380.25,60,0,The bank staff were knowledgeable and provided great service.
+CUST-446535,72,F,retiree,retired,47540.87,753,16328.35,12.17,17898.55,36,1,The staff act like they are doing a favor to their clients to answer their queries
+CUST-596695,21,M,young_adult,Barista,18271.08,660,17.19,83.69,10638.5,24,1,Their interest rates for young adults are very competitive!
+CUST-429719,59,F,professional,"Surveyor, mining",101076.34,768,21996.97,61.62,44452.15,60,0,My business is now easier than ever to manage with these banks.
+CUST-235517,40,M,professional,Technical author,90375.84,812,7454.44,37.19,53473.46,12,0,Helpful bank staff is one of the pros of this bank.
+CUST-675603,43,F,professional,Armed forces technical officer,69817.88,690,17853.21,55.23,35916.95,36,1,I experienced significant delays in receiving a replacement credit card after reporting it lost or stolen.
+CUST-756268,71,F,retiree,retired,27054.12,700,2321.91,25.72,15801.39,60,0,I'm happy with the friendly and supportive service I receive from you.
+CUST-814409,42,F,professional,"Geologist, wellsite",78675.44,741,28969.21,69.41,31811.56,24,0,The security measures in place provide peace of mind during transactions.
+CUST-276967,58,M,professional,Water engineer,85461.75,682,59451.62,61.96,4174.42,12,0,My mortgage application was inexplicably rejected despite my excellent credit history and stable income.
+CUST-687264,36,M,professional,"Psychologist, educational",106357.13,607,64248.46,26.83,60576.65,60,1,"The bank's online platform is unreliable, leading to frustrating delays in managing my business finances."
+CUST-602976,68,F,retiree,retired,58427.85,718,10076.98,36.37,27455.67,60,0,I was very impressed with the efficient service I received at the branch.
+CUST-756103,66,F,retiree,retired,32133.64,795,1907.68,46.61,18690.52,60,0,The pension account is working smoothly and providing a steady income.
+CUST-595330,77,M,retiree,retired,45198.53,794,14986.43,25.03,7336.18,12,1,I feel trapped by the bank; it's too much hassle to switch to another one.
+CUST-316246,60,F,retiree,retired,41356.1,735,3379.87,15.83,6998.44,36,0,Thank you for the help setting up my pension fund.
+CUST-432606,25,M,professional,Agricultural engineer,113333.4,752,20399.71,53.08,3070.71,36,0,I am concerned about the stability and long-term financial health of the institution.
+CUST-135594,25,M,professional,Sports administrator,128332.7,619,30782.44,12.98,37606.38,60,1,I am grateful for the personalized attention I received during my home loan application.
+CUST-845882,59,F,professional,Contracting civil engineer,103484.95,677,18426.62,44.72,14223.78,60,0,I commend the bank's dedication to providing excellent customer service.
+CUST-956331,73,M,retiree,retired,35279.11,707,5945.22,39.24,10422.1,60,0,This bank always prioritizes profit over customer service and it is not fair.
+CUST-141156,38,F,professional,Music therapist,94703.26,731,76581.46,43.99,3704.88,12,0,Excellent savings account interest rates are truly beneficial.
+CUST-674201,32,M,professional,Advertising account planner,92540.0,726,10341.86,41.16,46489.25,24,0,I am impressed with the bank's proactive fraud prevention measures.
+CUST-243471,22,F,young_adult,Intern,15369.06,454,355.67,73.58,3310.94,36,0,Splitting bills with my partner is a constant source of frustration due to the app.
+CUST-587215,21,M,young_adult,Barista,13381.57,577,61.34,73.44,7269.84,12,1,Mobile banking is smooth and quick!
+CUST-604095,69,F,retiree,retired,55333.97,749,14768.35,24.34,18166.2,36,0,The staff at my local branch always greet me with a smile; it's very nice.
+CUST-866850,24,F,young_adult,Intern,17161.0,646,626.72,57.45,4957.63,24,0,I am really happy about the services this bank provides me.
+CUST-534785,37,F,professional,"Psychologist, sport and exercise",139033.57,706,49334.37,51.44,56941.7,24,1,I was denied a loan despite having a strong credit history and collateral.
+CUST-160205,39,F,professional,"Runner, broadcasting/film/video",110187.91,796,34124.85,69.62,43666.27,12,0,Online management is as easy as sitting at my desk.
+CUST-554849,53,F,professional,Health service manager,81897.48,779,6475.27,64.88,29690.97,24,1,"I experienced significant delays in processing a wire transfer, impacting a crucial business deal."
+CUST-107685,41,M,professional,Radio producer,85271.11,687,6167.06,35.33,48515.02,60,1,The clarity of the terms and conditions associated with my loan was appreciated.
+CUST-493483,68,F,retiree,retired,60358.16,641,27341.94,21.44,8823.33,60,0,I'm thankful for the extra measures in place to secure my account.
+CUST-470531,19,M,young_adult,Barista,7953.66,536,163.15,63.44,4388.39,60,1,I find their bank’s app more user-friendly!
+CUST-988889,27,M,professional,Chief of Staff,91047.41,715,77490.37,54.1,49118.38,36,1,The interest rates offered on savings accounts are uncompetitive compared to other financial institutions.
+CUST-339372,43,M,professional,Volunteer coordinator,81097.26,648,29818.49,46.81,6180.55,12,1,I experienced significant delays in receiving a tax refund due to the bank's negligence.
+CUST-155350,44,F,professional,"Teacher, music",39700.68,808,36477.93,60.94,21744.51,36,0,The bank is not unethical and cares about its customers.
+CUST-943999,60,F,retiree,retired,38873.62,735,7813.64,6.81,10715.21,60,0,Your customer service team helped me solve my issue promptly.
+CUST-889949,28,F,professional,Science writer,99707.3,694,24920.16,41.31,15943.69,60,1,I value the bank's commitment to ethical and transparent business practices.
+CUST-437486,24,F,young_adult,Part-time Server,20595.29,620,54.87,68.47,9545.88,60,0,I am thrilled with the bank’s online banking features and design!
+CUST-614254,74,M,retiree,retired,45214.85,739,6315.03,32.5,4420.35,24,0,I’m really pleased with the helpfulness of the branch staff.
+CUST-465111,70,M,retiree,retired,57428.47,751,549.07,42.88,33789.35,36,0,I’m thankful for the excellent security measures protecting my finances.
+CUST-415169,20,F,young_adult,Part-time Server,14266.96,477,84.02,71.08,4064.59,60,0,Fast-cash helps me with fast payments.
+CUST-981465,54,F,professional,Theatre director,97435.78,737,38057.24,3.76,47759.47,12,0,The security measures in place provide peace of mind during transactions.
+CUST-915789,59,F,professional,Information systems manager,136353.57,771,16330.93,55.84,15179.22,60,0,Competitive interest rates on business savings are a great benefit.
+CUST-367778,46,M,professional,Health service manager,50318.67,712,11697.58,50.08,18479.53,12,1,I experienced frequent errors and glitches while attempting to process payroll through the bank's system.
+CUST-329761,57,M,professional,Advice worker,68242.04,748,31092.6,63.21,8681.0,36,0,Clear changes were beneficial to the account.
+CUST-709451,68,M,retiree,retired,49523.8,648,10058.09,35.17,22661.79,60,1,The support agent on the phone cut the line to avoid dealing with me!
+CUST-148374,61,M,retiree,retired,44427.08,699,4466.69,27.99,10012.03,24,0,Your team's attention to safeguarding my funds gives me assurance.
+CUST-574605,42,M,professional,Theatre director,99138.25,766,28544.63,33.38,47151.92,36,1,The information provided by different customer service representatives was inconsistent.
+CUST-481518,57,M,professional,Haematologist,68175.92,727,33152.89,43.58,28594.77,24,0,The implemented security provides peace of mind during transactions.
+CUST-710055,56,M,professional,English as a foreign language teacher,89748.81,637,3766.34,36.81,17352.9,36,1,I am concerned about the bank's involvement in environmentally damaging projects.
+CUST-665898,55,M,professional,Camera operator,16309.81,758,3748.06,45.68,9398.75,24,0,The loan terms and conditions were presented with clarity.
+CUST-517326,67,M,retiree,retired,47983.63,696,4719.91,25.96,27943.64,36,0,The customer service representatives were kind and well-informed.
+CUST-722934,29,F,professional,Outdoor activities/education manager,17052.17,704,10866.03,41.61,2612.63,24,0,I've had a consistently positive experience with your financial services over the years.
+CUST-925278,62,F,retiree,retired,40458.53,728,8171.94,-0.48,17177.3,24,1,"The bank never protects the customer's interest, but the bank is always protected."
+CUST-249148,27,F,professional,Operational researcher,55536.23,749,22041.81,34.6,25019.39,60,0,The online banking interface is user-friendly and allows for effortless financial management.
+CUST-842685,67,M,retiree,retired,61091.45,646,1677.89,28.58,23584.98,24,0,I'm grateful for the courteous and professional approach of your staff.
+CUST-365329,45,M,professional,Fitness centre manager,67396.15,781,23030.46,60.84,5629.23,36,0,My experience using the financial services is consistenly excellent.
+CUST-948619,60,F,retiree,retired,33822.79,567,2529.36,36.12,15560.92,12,1,"My local branch closed, and the next one is too far away; I can't get there easily."
+CUST-316828,74,M,retiree,retired,53026.47,650,2023.6,33.91,15436.8,60,0,I am really happy with the personal attention I receive from my bank.
+CUST-451122,78,F,retiree,retired,30163.54,733,2613.31,30.55,12035.45,24,0,I'm worried about the changes to my pension payments; can you verify the reason?
+CUST-892908,30,F,professional,Chief of Staff,95049.78,696,19822.42,51.87,21657.62,36,0,The international wire transfer service is efficient and reliable for my business needs.
+CUST-484207,48,F,professional,Industrial buyer,103770.5,717,22833.67,46.41,49939.98,12,0,High interest rates and benefits are a huge reason to be with the bank.
+CUST-856837,36,M,professional,Optometrist,104381.02,715,23283.35,42.86,41704.59,12,0,Clear changes were beneficial to the account.
+CUST-131666,59,M,professional,Toxicologist,90447.9,772,39702.87,30.34,22240.58,24,0,Clear and concise communication regarding account status changes.
+CUST-784665,19,F,young_adult,Barista,8173.42,488,42.36,91.44,2488.43,36,1,The bank keeps blocking my crypto transactions without any explanation.
+CUST-488037,29,M,professional,Retail manager,104698.99,720,62148.82,17.78,4519.0,36,0,The many investment options made it easy to manage my money.
+CUST-297246,32,F,professional,Print production planner,57034.93,738,9787.96,33.38,20066.41,60,0,The clarity of the terms and conditions associated with my loan was appreciated.
+CUST-595688,42,M,professional,Advertising art director,15837.3,681,7847.7,20.44,7641.42,60,0,I value the personalized financial advice I received from the bank's advisors.
+CUST-281379,22,F,young_adult,Intern,14218.41,576,38.31,54.24,2511.18,24,0,I find their bank’s app more user-friendly!
+CUST-175309,67,M,retiree,retired,44098.74,601,2459.06,7.13,16177.82,12,0,I am very happy with the kind and supportive staff at the branch.
+CUST-354882,23,F,young_adult,Barista,18571.87,728,694.07,76.55,8814.2,60,0,The mobile platform makes splitting bills easy. No drama!
+CUST-224594,72,F,retiree,retired,32323.51,674,4105.74,18.85,10639.41,24,0,The team at the bank have helped me immensely during this transition.
+CUST-174793,61,M,retiree,retired,38916.55,634,16072.4,29.88,4643.35,36,0,Knowing my retirement funds are safe gives me true peace of mind.
+CUST-735773,59,F,professional,Music therapist,76792.42,669,30483.58,30.94,4232.21,24,0,Online management is as easy as sitting at my desk.
+CUST-895405,69,F,retiree,retired,36534.54,768,3510.4,35.2,8546.01,12,0,Your phone service is impeccable; problems get solved so quickly.
+CUST-728610,57,F,professional,Sports development officer,84658.31,840,9305.36,55.21,15308.52,60,0,Reliable international money transfers helped my business.
+CUST-869443,39,M,professional,Engineering geologist,106560.06,739,21827.03,62.05,56961.62,12,1,I am frustrated with the rigid policies and lack of flexibility when dealing with business account matters.
+CUST-919967,54,F,professional,Engineering geologist,113191.26,746,34229.45,44.75,6891.49,36,0,The bank's failure to address my concerns regarding fraudulent activity on my account is unacceptable.
+CUST-582084,55,F,professional,Media planner,50463.41,754,37611.95,12.1,11525.06,12,0,The communication regarding account updates is clear and concise.
+CUST-619089,73,F,retiree,retired,51937.03,696,1565.25,23.49,4316.89,24,0,The helpful staff at the branch were very accommodating and patient.
+CUST-126870,70,M,retiree,retired,34995.42,653,2836.29,25.45,8159.09,24,0,Your phone support team is truly exceptional; they solved my issue quickly.
+CUST-893547,18,M,young_adult,Intern,9083.53,436,341.12,64.66,3229.81,60,1,I'm considering closing my crypto account due to the high fees and volatility.
+CUST-507851,52,M,professional,Ophthalmologist,80983.66,806,27433.73,47.41,16040.09,36,1,"The bank's system frequently experiences downtime, disrupting my ability to access essential financial services."
+CUST-134056,43,F,professional,Agricultural engineer,104068.24,717,24211.45,47.15,6903.33,36,0,Personalized support during home loan applications was appreciated.
+CUST-504953,58,F,professional,"Therapist, speech and language",102010.42,776,23006.55,60.4,52563.95,60,0,Security helped make sure my employees were not scammed.
+CUST-491368,35,M,professional,Personnel officer,73243.54,653,36901.92,51.28,41304.87,60,0,The range of investment options is well-suited to my financial objectives.
+CUST-148196,63,M,retiree,retired,27717.6,626,3391.34,36.58,13603.74,24,1,I can't remember the new passwords; it's all so confusing.
+CUST-958351,57,M,professional,Toxicologist,97323.09,743,35499.9,46.26,44771.37,12,0,Buying a house has become so much easier with your assistance.
+CUST-944991,56,F,professional,Chartered legal executive (England and Wales),101723.29,690,64564.06,57.8,58143.7,60,1,I experienced significant delays in receiving a tax refund due to the bank's negligence.
+CUST-923287,70,M,retiree,retired,55871.67,706,5713.02,35.46,5044.89,24,0,I was so happy to receive clear instructions about my pension income.
+CUST-251216,57,M,professional,Textile designer,109533.24,735,4965.97,34.38,33503.48,24,0,Clear changes were beneficial to the account.
+CUST-611924,53,M,professional,"Surveyor, quantity",92363.01,657,6934.38,22.53,29993.0,24,0,The security measures in place provide peace of mind during transactions.
+CUST-462039,71,F,retiree,retired,51218.27,797,21752.49,42.81,12606.47,36,0,The customer support team were prompt and professional in their response.
+CUST-384422,62,M,retiree,retired,45345.32,621,6605.9,37.74,13128.91,24,0,The branch staff were incredibly patient explaining the new website to me.
+CUST-300968,79,M,retiree,retired,49995.2,619,23578.03,22.86,2135.98,24,0,I’m so thankful for the help with accessing my online pension statement.
+CUST-524422,52,M,professional,"Scientist, marine",122920.89,677,22484.27,71.5,40809.37,24,0,Modern technology has improved the banking system.
+CUST-117853,35,M,professional,Psychiatrist,100296.47,724,27542.33,30.81,53651.7,36,1,I am frustrated with the lack of flexibility in customizing banking services for my business.
+CUST-829195,50,M,professional,Special effects artist,74315.11,697,9731.26,27.07,43352.96,36,0,Simple finance manager made business easy.
+CUST-853558,69,F,retiree,retired,25712.34,619,7505.13,18.86,5721.26,12,0,The security measures give me great confidence in your services.
+CUST-563449,74,M,retiree,retired,27126.97,669,7545.12,30.9,6104.69,60,0,I'm delighted with how simple it is to get my pension details.
+CUST-333739,40,M,professional,"Engineer, biomedical",74277.99,789,19788.19,53.71,27980.71,24,0,Mobile banking has greatly benefitted my business partner.
+CUST-225161,36,M,professional,Wellsite geologist,94630.57,654,72603.47,74.98,15019.69,60,0,The range of financial products is exactly what I need for investing.
+CUST-216353,58,M,professional,Special effects artist,67727.23,660,19030.26,51.16,38211.35,12,0,This bank is the best in terms of fraud prevention.
+CUST-471036,62,M,retiree,retired,52104.89,721,5783.94,29.97,8137.54,24,0,I am grateful for the time and care that the team provides.
+CUST-885649,39,M,professional,Market researcher,59453.78,749,12390.66,24.08,27198.43,24,0,The staff knows how to help without being invasive.
+CUST-164524,73,M,retiree,retired,42232.21,711,5398.55,46.6,13157.51,24,0,I am thankful to feel safe with my account information.
+CUST-387135,52,F,professional,Music tutor,105917.98,662,17476.11,65.67,22705.16,60,0,The efficiency of the online application process for loans was impressive.
+CUST-912311,74,M,retiree,retired,46543.31,732,23433.2,36.26,25644.48,12,0,I'm very satisfied with the efficient handling of my retirement account.
+CUST-338354,19,F,young_adult,Part-time Server,18549.12,661,275.11,73.42,10636.62,24,0,"The instant cash advances have saved me more than once, seriously life-saving."
+CUST-630776,32,M,professional,Theatre manager,92037.17,794,26706.32,42.99,31754.88,24,0,Many great products exist that satisfy my needs.
+CUST-112239,77,F,retiree,retired,45185.44,704,14274.57,19.66,17932.19,36,0,Your security enhancements give me a high degree of comfort.
+CUST-358420,44,M,professional,Print production planner,112145.88,754,33327.84,60.57,50138.49,12,0,Reliable international money transfers helped my business.
+CUST-602877,40,M,professional,English as a foreign language teacher,108857.85,806,16240.62,31.55,62730.54,36,0,"My business account was frozen without proper notification, causing significant operational disruptions."
+CUST-487910,67,F,retiree,retired,37203.6,764,1141.93,34.84,17585.65,60,1,The bank made a mistake in my account. It has taken weeks to rectify the mistake
+CUST-208886,61,F,retiree,retired,70206.71,708,8330.83,13.21,11741.89,12,0,I feel reassured knowing that my money is in safe hands with you.
+CUST-386622,33,M,professional,"Scientist, clinical (histocompatibility and immunogenetics)",85440.38,755,3783.7,49.98,44146.39,60,0,Security helped make sure my employees were not scammed.
+CUST-420767,74,M,retiree,retired,42612.16,701,2705.82,18.31,10756.89,36,0,Thank you for helping me keep my account information secure.
+CUST-106802,63,M,retiree,retired,48935.13,798,23687.86,2.64,13120.44,24,0,I'm extremely happy with how the pension plan is managed.
+CUST-148448,33,F,professional,Tax adviser,102985.82,724,51634.71,68.03,22053.15,24,0,The integration of mobile banking with other financial tools is seamless.
+CUST-720344,60,F,retiree,retired,29707.69,708,2810.81,38.49,3590.83,60,0,It's nice to know my pension fund is safe and secure.
+CUST-105726,33,F,professional,Production engineer,91283.6,658,57658.78,34.3,11991.78,36,0,The mortgage options available were tailored to my specific financial situation.
+CUST-874091,44,F,professional,"Runner, broadcasting/film/video",118278.64,746,4682.17,37.09,22657.83,12,0,Many great products exist that satisfy my needs.
+CUST-822285,60,M,retiree,retired,43798.66,699,3338.91,34.54,10080.35,12,0,"The branch is a really friendly place, it's nice to be there."
+CUST-626810,67,F,retiree,retired,38699.25,684,6111.93,25.53,7613.89,36,0,The bank's leadership is arrogant; they don't listen to their customers.
+CUST-800783,35,M,professional,Human resources officer,36397.03,783,32580.63,64.94,19690.47,60,0,The bank's dedication to community involvement is commendable.
+CUST-552768,45,M,professional,"Surveyor, quantity",89439.53,772,10813.18,39.79,38912.27,60,0,Setting up multiple user access for my employees proved to be a complicated process.
+CUST-744204,46,F,professional,"Conservator, furniture",76104.76,684,47297.82,49.01,32386.24,12,1,I was denied a loan despite having a strong credit history and collateral.
+CUST-170411,54,M,professional,"Scientist, research (physical sciences)",127029.5,661,106719.11,52.06,73248.76,36,1,Security makes me feel like I can be worry-free from theft.
+CUST-788625,32,M,professional,Politician's assistant,58315.79,742,20782.2,50.16,7868.68,12,0,Comprehensive online resources are so very helpful and appreciated.
+CUST-674237,52,M,professional,"Nurse, learning disability",51714.06,729,9651.7,52.92,24873.48,12,0,The bank's commitment to innovation is evident in its advanced technological offerings.
+CUST-305285,78,F,retiree,retired,39847.17,728,20948.4,14.6,20364.08,24,0,The new security measures definitely make me feel safer with my finances.
+CUST-716886,34,M,professional,Freight forwarder,82623.01,601,29314.88,64.28,30050.38,24,0,I save time with a reliable and trustworthy service.
+CUST-238651,36,F,professional,Prison officer,98243.8,685,13425.46,66.82,29686.97,36,0,The bank is not unethical and cares about its customers.
+CUST-746917,43,M,professional,Occupational hygienist,101907.48,666,26948.87,75.75,55130.03,12,0,The international wire transfer service is reliable for my business transactions.
+CUST-854023,53,F,professional,"Conservation officer, historic buildings",98025.43,648,10564.52,65.02,32754.8,24,0,I have many options in terms of managing my funds.
+CUST-151938,39,M,professional,Travel agency manager,97955.97,717,95437.67,53.42,12202.3,12,0,The bank's mobile app lacks crucial features necessary for effective business financial management.
+CUST-142703,66,M,retiree,retired,30717.36,599,10142.02,34.97,3095.39,12,1,The branch on Main Street is always clean and the staff is friendly.
+CUST-133426,72,M,retiree,retired,40897.48,751,16144.05,27.59,16296.52,36,0,I’m thankful for the excellent security measures protecting my finances.
+CUST-666611,21,F,young_adult,None,14685.71,584,70.18,49.0,6912.61,60,1,The app is constantly asking for permissions I don't want to give.
+CUST-793835,71,F,retiree,retired,28249.73,738,8053.06,30.04,14228.51,60,0,I was helped out a lot by the lovely staff at the bank.
+CUST-928017,50,F,professional,"Surveyor, building control",83816.7,702,15607.15,39.63,17179.08,60,0,Bank notifications made sure no one stole my identity.
+CUST-629413,46,M,professional,Intelligence analyst,48978.64,722,5280.76,57.91,7048.4,60,0,The online resources available are comprehensive and informative.
+CUST-567797,66,M,retiree,retired,42861.54,712,17869.42,38.23,18184.08,24,0,The ease of managing my pension online is a wonderful convenience.
+CUST-695656,45,M,professional,Pharmacologist,98719.76,754,38786.28,59.08,32290.59,60,0,Reliable international wire transfer service is essential for my business.
+CUST-176666,54,F,professional,Community arts worker,119072.33,753,32659.81,65.1,70444.96,12,0,My experience with your financial services has been consistently positive.
+CUST-480982,59,M,professional,Horticultural therapist,71518.61,741,52527.76,54.9,28424.99,12,0,The staff has been helpful and has not been invasive.
+CUST-268813,41,M,professional,Financial risk analyst,47238.26,775,13901.48,25.2,17756.63,36,0,Personalized support during home loan applications was appreciated.
+CUST-603485,47,M,professional,"Development worker, international aid",123283.67,775,34264.85,57.88,51128.08,24,0,The bank's proactive approach to fraud prevention is highly reassuring.
+CUST-157655,30,M,professional,"Engineer, petroleum",99891.61,839,21717.36,36.71,38599.53,24,0,It's so easy to be a customer because of these great options.
+CUST-300746,30,M,professional,Theme park manager,66704.26,761,21802.99,47.84,37212.74,60,0,It's so easy to be a customer because of these great options.
+CUST-589003,36,F,professional,Multimedia programmer,72993.47,764,50173.13,56.29,26488.6,12,1,The bank's online bill pay system is unreliable and often results in late payments.
+CUST-916888,53,F,professional,Land,68811.85,724,20654.62,37.05,29946.39,12,1,The bank's mobile deposit feature is frequently unavailable due to technical issues.
+CUST-186382,30,M,professional,"Production designer, theatre/television/film",93831.12,691,14117.5,55.29,25749.38,12,0,Notifications regarding my bank account are helpful and not intrusive.
+CUST-463483,32,M,professional,Fish farm manager,74127.06,808,29044.34,29.4,23019.54,24,0,The ease of setting up and managing business accounts has been a significant benefit.
+CUST-429052,68,M,retiree,retired,48434.25,689,8980.63,3.87,15369.0,12,0,"The branch is always a welcome, and calming, place to visit."
+CUST-671460,69,F,retiree,retired,58184.45,509,12145.69,25.24,20750.33,36,1,I feel like the bank is ignoring its older customers; the focus is all on online services.
+CUST-338560,70,F,retiree,retired,41325.18,661,8370.87,23.85,18125.53,36,1,I am unable to understand the new security measures put in place.
+CUST-383074,43,M,professional,Energy engineer,43376.01,741,20213.75,3.55,6395.35,24,0,I value the personalized financial advice I received from the bank's professionals.
+CUST-832270,50,F,professional,Counsellor,71761.55,644,28802.03,30.61,2309.47,36,1,The bank's interest rates are not competitive for commercial real estate mortgages.
+CUST-252588,20,M,young_adult,Student,14364.45,579,1467.62,74.94,2734.29,36,0,The whole experience feels modern!
+CUST-957364,76,F,retiree,retired,41509.28,727,4826.61,24.94,7624.87,12,0,This bank always makes mistakes. My bill is incorrect all the time!
+CUST-935630,77,F,retiree,retired,39607.52,629,12733.2,27.94,10336.94,60,0,The pension account is working smoothly and providing a steady income.
+CUST-184819,48,M,professional,Meteorologist,81413.54,785,12578.4,38.88,33202.59,36,0,The reliable international funds help me focus on business.
+CUST-752035,50,F,professional,Chartered legal executive (England and Wales),70038.63,713,5718.01,59.65,4387.42,60,0,The bank is committed to making the community a better place.
+CUST-535134,37,F,professional,Pathologist,76116.44,722,6502.11,45.74,20487.76,24,1,The reporting features offered by the bank are not comprehensive enough for my needs.
+CUST-334349,56,M,professional,Art gallery manager,103407.2,619,11756.02,54.55,8043.19,12,0,Competitive interest rates on savings accounts are a major benefit.
+CUST-345895,36,F,professional,Airline pilot,153725.33,775,98185.34,38.05,6185.01,12,1,"The bank's system frequently experiences downtime, disrupting my ability to access essential financial services."
