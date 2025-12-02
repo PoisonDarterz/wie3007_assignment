@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+venv.bak/
+
+# Environment files (API keys, secrets)
+.env
+.env.*
+.env.local
+.secrets/
+
+# PyCharm
+.idea/
+*.iml
+
+# VS Code (if present)
+.vscode/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Testing / coverage
+.pytest_cache/
+coverage.xml
+htmlcov/
+.coverage
+
+# Type checkers / caches
+.mypy_cache/
+.pyre/
+.dmypy.json
+
+# Logs and temp
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# SSL / keys
+*.pem
+*.key
+*.crt
+
+# Misc
+*.egg
+*.whl
