@@ -3,3 +3,4 @@ numpy~=2.1.2
 faker~=38.2.0
 protobuf~=5.29.5
 python-dotenv~=1.0.1
+xgboost>=1.7
